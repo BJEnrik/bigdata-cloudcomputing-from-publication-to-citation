@@ -1,0 +1,2259 @@
+subject,year,count,row_num
+Atmospheric Science,1500,13,1
+General Medicine,1500,3,2
+Physiology,1500,3,3
+Molecular Biology,1500,3,4
+Cell Biology,1500,3,5
+Endocrinology,1500,2,6
+"Endocrinology, Diabetes and Metabolism",1500,2,7
+Condensed Matter Physics,1500,1,8
+Insect Science,1500,1,9
+Instrumentation,1500,1,10
+Economics and Econometrics,1512,1,1
+Finance,1512,1,2
+Accounting,1512,1,3
+General Medicine,1773,45,1
+General Medicine,1777,30,1
+General Medicine,1782,36,1
+General Medicine,1785,52,1
+General Earth and Planetary Sciences,1798,32,1
+General Environmental Science,1798,32,2
+General Physics and Astronomy,1801,120,1
+General Physics and Astronomy,1804,126,1
+General Materials Science,1804,18,2
+General Physics and Astronomy,1805,183,1
+General Environmental Science,1805,32,2
+General Earth and Planetary Sciences,1805,32,3
+General Physics and Astronomy,1806,147,1
+General Medicine,1806,44,2
+General Physics and Astronomy,1807,126,1
+General Physics and Astronomy,1810,120,1
+General Physics and Astronomy,1811,170,1
+General Medicine,1811,33,2
+Drug Discovery,1811,21,3
+Pharmaceutical Science,1811,21,4
+Marketing,1811,21,5
+Organizational Behavior and Human Resource Management,1811,21,6
+Pharmacology,1811,21,7
+Strategy and Management,1811,21,8
+General Medicine,1815,152,1
+General Physics and Astronomy,1815,112,2
+General Environmental Science,1815,20,3
+General Earth and Planetary Sciences,1815,20,4
+General Physics and Astronomy,1816,121,1
+General Medicine,1816,120,2
+Pharmacology,1816,17,3
+Organizational Behavior and Human Resource Management,1816,17,4
+Strategy and Management,1816,17,5
+Marketing,1816,17,6
+Pharmaceutical Science,1816,17,7
+Drug Discovery,1816,17,8
+General Physics and Astronomy,1820,150,1
+General Medicine,1820,71,2
+General Physics and Astronomy,1821,164,1
+General Medicine,1821,137,2
+Marketing,1821,33,3
+Pharmacology,1821,33,4
+Organizational Behavior and Human Resource Management,1821,33,5
+Strategy and Management,1821,33,6
+Pharmaceutical Science,1821,33,7
+Drug Discovery,1821,33,8
+General Physics and Astronomy,1822,164,1
+Pharmaceutical Science,1822,125,2
+Drug Discovery,1822,125,3
+General Medicine,1822,65,4
+Organizational Behavior and Human Resource Management,1822,14,5
+Pharmacology,1822,14,6
+Marketing,1822,14,7
+Strategy and Management,1822,14,8
+General Medicine,1824,663,1
+Drug Discovery,1824,344,2
+Pharmaceutical Science,1824,344,3
+Space and Planetary Science,1824,244,4
+Astronomy and Astrophysics,1824,244,5
+General Physics and Astronomy,1824,117,6
+Marketing,1824,17,7
+Strategy and Management,1824,17,8
+Organizational Behavior and Human Resource Management,1824,17,9
+Pharmacology,1824,17,10
+General Medicine,1826,676,1
+Applied Mathematics,1826,364,2
+Signal Processing,1826,325,3
+Computer Networks and Communications,1826,325,4
+Control and Systems Engineering,1826,325,5
+Pharmaceutical Science,1826,291,6
+Drug Discovery,1826,291,7
+Astronomy and Astrophysics,1826,243,8
+Space and Planetary Science,1826,243,9
+General Physics and Astronomy,1826,179,10
+General Medicine,1828,1339,1
+Pharmaceutical Science,1828,370,2
+Drug Discovery,1828,370,3
+Applied Mathematics,1828,351,4
+General Physics and Astronomy,1828,343,5
+Computer Networks and Communications,1828,307,6
+Signal Processing,1828,307,7
+Control and Systems Engineering,1828,307,8
+Energy Engineering and Power Technology,1828,209,9
+Fuel Technology,1828,209,10
+General Medicine,1830,1440,1
+Applied Mathematics,1830,380,2
+Signal Processing,1830,305,3
+Control and Systems Engineering,1830,305,4
+Computer Networks and Communications,1830,305,5
+Energy Engineering and Power Technology,1830,275,6
+Fuel Technology,1830,275,7
+General Physics and Astronomy,1830,204,8
+Pharmaceutical Science,1830,177,9
+Drug Discovery,1830,177,10
+General Medicine,1834,1445,1
+Physical and Theoretical Chemistry,1834,718,2
+Organic Chemistry,1834,718,3
+General Physics and Astronomy,1834,343,4
+Applied Mathematics,1834,285,5
+Energy Engineering and Power Technology,1834,280,6
+Fuel Technology,1834,280,7
+Signal Processing,1834,208,8
+Computer Networks and Communications,1834,208,9
+Control and Systems Engineering,1834,208,10
+General Medicine,1836,1442,1
+Organic Chemistry,1836,752,2
+Physical and Theoretical Chemistry,1836,752,3
+Fuel Technology,1836,274,4
+Energy Engineering and Power Technology,1836,274,5
+Applied Mathematics,1836,247,6
+Drug Discovery,1836,247,7
+Pharmaceutical Science,1836,247,8
+General Physics and Astronomy,1836,230,9
+Control and Systems Engineering,1836,218,10
+General Medicine,1838,1820,1
+Organic Chemistry,1838,544,2
+Physical and Theoretical Chemistry,1838,544,3
+Applied Mathematics,1838,381,4
+Control and Systems Engineering,1838,356,5
+Computer Networks and Communications,1838,356,6
+Signal Processing,1838,356,7
+Drug Discovery,1838,256,8
+Pharmaceutical Science,1838,256,9
+Energy Engineering and Power Technology,1838,228,10
+General Medicine,1841,3315,1
+General Environmental Science,1841,634,2
+General Engineering,1841,634,3
+General Earth and Planetary Sciences,1841,634,4
+Organic Chemistry,1841,486,5
+Physical and Theoretical Chemistry,1841,486,6
+Pharmaceutical Science,1841,438,7
+Drug Discovery,1841,438,8
+Energy Engineering and Power Technology,1841,255,9
+Fuel Technology,1841,255,10
+General Medicine,1844,3253,1
+Pharmaceutical Science,1844,609,2
+Drug Discovery,1844,609,3
+General Earth and Planetary Sciences,1844,599,4
+General Environmental Science,1844,599,5
+General Engineering,1844,540,6
+Physical and Theoretical Chemistry,1844,526,7
+Organic Chemistry,1844,526,8
+Applied Mathematics,1844,335,9
+Energy Engineering and Power Technology,1844,310,10
+General Medicine,1845,3374,1
+General Engineering,1845,891,2
+General Earth and Planetary Sciences,1845,609,3
+General Environmental Science,1845,609,4
+Drug Discovery,1845,543,5
+Pharmaceutical Science,1845,543,6
+Organic Chemistry,1845,436,7
+Physical and Theoretical Chemistry,1845,436,8
+Energy Engineering and Power Technology,1845,335,9
+Fuel Technology,1845,335,10
+General Medicine,1846,3305,1
+Multidisciplinary,1846,1714,2
+Pharmaceutical Science,1846,671,3
+Drug Discovery,1846,671,4
+Organic Chemistry,1846,520,5
+Physical and Theoretical Chemistry,1846,520,6
+Astronomy and Astrophysics,1846,497,7
+Space and Planetary Science,1846,497,8
+General Environmental Science,1846,496,9
+General Earth and Planetary Sciences,1846,496,10
+Multidisciplinary,1847,4935,1
+General Medicine,1847,2944,2
+Drug Discovery,1847,575,3
+Pharmaceutical Science,1847,575,4
+General Environmental Science,1847,398,5
+General Earth and Planetary Sciences,1847,398,6
+General Engineering,1847,392,7
+Fuel Technology,1847,352,8
+Energy Engineering and Power Technology,1847,352,9
+Space and Planetary Science,1847,276,10
+General Medicine,1854,3840,1
+Linguistics and Language,1854,3121,2
+Language and Linguistics,1854,3121,3
+Literature and Literary Theory,1854,3044,4
+Library and Information Sciences,1854,2942,5
+Multidisciplinary,1854,2147,6
+General Earth and Planetary Sciences,1854,757,7
+General Environmental Science,1854,757,8
+General Engineering,1854,667,9
+Pharmaceutical Science,1854,605,10
+General Medicine,1855,3709,1
+Language and Linguistics,1855,3087,2
+Linguistics and Language,1855,3087,3
+Literature and Literary Theory,1855,3014,4
+Library and Information Sciences,1855,2902,5
+Multidisciplinary,1855,2010,6
+Astronomy and Astrophysics,1855,939,7
+General Environmental Science,1855,792,8
+General Earth and Planetary Sciences,1855,792,9
+Space and Planetary Science,1855,705,10
+General Medicine,1856,3999,1
+Language and Linguistics,1856,3379,2
+Linguistics and Language,1856,3379,3
+Literature and Literary Theory,1856,3285,4
+Library and Information Sciences,1856,3247,5
+Multidisciplinary,1856,2131,6
+General Environmental Science,1856,960,7
+General Earth and Planetary Sciences,1856,960,8
+General Engineering,1856,764,9
+Astronomy and Astrophysics,1856,673,10
+General Medicine,1858,4332,1
+Language and Linguistics,1858,3342,2
+Linguistics and Language,1858,3342,3
+Literature and Literary Theory,1858,3266,4
+Library and Information Sciences,1858,3187,5
+Multidisciplinary,1858,1492,6
+General Environmental Science,1858,877,7
+General Earth and Planetary Sciences,1858,877,8
+Astronomy and Astrophysics,1858,808,9
+General Engineering,1858,734,10
+General Medicine,1860,3860,1
+Linguistics and Language,1860,3085,2
+Language and Linguistics,1860,3085,3
+Literature and Literary Theory,1860,3019,4
+Library and Information Sciences,1860,2912,5
+Multidisciplinary,1860,1800,6
+General Earth and Planetary Sciences,1860,863,7
+General Environmental Science,1860,784,8
+General Engineering,1860,639,9
+Pharmaceutical Science,1860,540,10
+General Medicine,1861,4211,1
+Language and Linguistics,1861,2940,2
+Linguistics and Language,1861,2940,3
+Literature and Literary Theory,1861,2919,4
+Library and Information Sciences,1861,2865,5
+General Earth and Planetary Sciences,1861,1049,6
+General Environmental Science,1861,969,7
+Multidisciplinary,1861,820,8
+General Engineering,1861,735,9
+Astronomy and Astrophysics,1861,556,10
+General Medicine,1872,5351,1
+Linguistics and Language,1872,3949,2
+Language and Linguistics,1872,3949,3
+Literature and Literary Theory,1872,3893,4
+Library and Information Sciences,1872,3777,5
+Multidisciplinary,1872,2488,6
+General Earth and Planetary Sciences,1872,1182,7
+General Environmental Science,1872,1060,8
+General Engineering,1872,1044,9
+"Ecology, Evolution, Behavior and Systematics",1872,519,10
+General Medicine,1873,5029,1
+Linguistics and Language,1873,3903,2
+Language and Linguistics,1873,3903,3
+Literature and Literary Theory,1873,3836,4
+Library and Information Sciences,1873,3743,5
+Multidisciplinary,1873,2532,6
+General Earth and Planetary Sciences,1873,1194,7
+General Environmental Science,1873,1089,8
+General Engineering,1873,857,9
+Astronomy and Astrophysics,1873,727,10
+General Medicine,1877,6121,1
+Multidisciplinary,1877,4223,2
+Linguistics and Language,1877,3920,3
+Language and Linguistics,1877,3920,4
+Literature and Literary Theory,1877,3857,5
+Library and Information Sciences,1877,3665,6
+General Earth and Planetary Sciences,1877,1317,7
+General Environmental Science,1877,1233,8
+General Engineering,1877,924,9
+Inorganic Chemistry,1877,656,10
+General Medicine,1878,6072,1
+Multidisciplinary,1878,4174,2
+Language and Linguistics,1878,4102,3
+Linguistics and Language,1878,4102,4
+Literature and Literary Theory,1878,4052,5
+Library and Information Sciences,1878,3909,6
+General Earth and Planetary Sciences,1878,1421,7
+General Environmental Science,1878,1326,8
+General Engineering,1878,1173,9
+Drug Discovery,1878,747,10
+General Medicine,1881,7359,1
+Multidisciplinary,1881,5123,2
+Language and Linguistics,1881,4402,3
+Linguistics and Language,1881,4402,4
+Literature and Literary Theory,1881,4307,5
+Library and Information Sciences,1881,4105,6
+General Earth and Planetary Sciences,1881,1598,7
+General Environmental Science,1881,1525,8
+General Engineering,1881,1074,9
+Pharmaceutical Science,1881,769,10
+General Medicine,1882,7574,1
+Language and Linguistics,1882,4967,2
+Linguistics and Language,1882,4967,3
+Literature and Literary Theory,1882,4931,4
+Library and Information Sciences,1882,4612,5
+Multidisciplinary,1882,3732,6
+General Earth and Planetary Sciences,1882,1587,7
+General Environmental Science,1882,1529,8
+General Engineering,1882,1341,9
+Astronomy and Astrophysics,1882,789,10
+General Medicine,1883,8070,1
+Multidisciplinary,1883,4981,2
+Language and Linguistics,1883,3646,3
+Linguistics and Language,1883,3646,4
+Literature and Literary Theory,1883,3630,5
+Library and Information Sciences,1883,3432,6
+General Earth and Planetary Sciences,1883,1705,7
+General Environmental Science,1883,1640,8
+General Engineering,1883,1260,9
+Pharmaceutical Science,1883,950,10
+General Medicine,1885,8575,1
+Multidisciplinary,1885,5284,2
+Language and Linguistics,1885,4459,3
+Linguistics and Language,1885,4459,4
+Literature and Literary Theory,1885,4395,5
+Library and Information Sciences,1885,4135,6
+General Earth and Planetary Sciences,1885,1765,7
+General Environmental Science,1885,1701,8
+General Engineering,1885,1347,9
+"Ecology, Evolution, Behavior and Systematics",1885,992,10
+General Medicine,1887,9749,1
+Multidisciplinary,1887,5990,2
+Literature and Literary Theory,1887,4457,3
+Language and Linguistics,1887,4263,4
+Linguistics and Language,1887,4263,5
+Library and Information Sciences,1887,3957,6
+General Earth and Planetary Sciences,1887,2299,7
+General Environmental Science,1887,2292,8
+General Engineering,1887,1680,9
+"Ecology, Evolution, Behavior and Systematics",1887,888,10
+General Medicine,1891,11415,1
+Literature and Literary Theory,1891,4742,2
+Multidisciplinary,1891,4721,3
+Language and Linguistics,1891,4536,4
+Linguistics and Language,1891,4536,5
+Library and Information Sciences,1891,4317,6
+General Earth and Planetary Sciences,1891,2261,7
+General Environmental Science,1891,2183,8
+General Engineering,1891,1599,9
+Astronomy and Astrophysics,1891,1107,10
+General Medicine,1892,13459,1
+Multidisciplinary,1892,4838,2
+General Earth and Planetary Sciences,1892,2908,3
+Literature and Literary Theory,1892,2868,4
+General Environmental Science,1892,2826,5
+Language and Linguistics,1892,2676,6
+Linguistics and Language,1892,2676,7
+Library and Information Sciences,1892,2337,8
+General Engineering,1892,2262,9
+History,1892,1120,10
+General Medicine,1893,13182,1
+Multidisciplinary,1893,5489,2
+Literature and Literary Theory,1893,4960,3
+Language and Linguistics,1893,4782,4
+Linguistics and Language,1893,4782,5
+Library and Information Sciences,1893,4545,6
+General Earth and Planetary Sciences,1893,2862,7
+General Environmental Science,1893,2756,8
+General Engineering,1893,2253,9
+Astronomy and Astrophysics,1893,1117,10
+General Medicine,1895,14449,1
+Multidisciplinary,1895,5246,2
+Literature and Literary Theory,1895,4430,3
+Language and Linguistics,1895,4293,4
+Linguistics and Language,1895,4293,5
+Library and Information Sciences,1895,3880,6
+General Earth and Planetary Sciences,1895,3312,7
+General Environmental Science,1895,3267,8
+General Engineering,1895,2513,9
+History,1895,1278,10
+General Medicine,1897,15491,1
+Multidisciplinary,1897,5404,2
+Literature and Literary Theory,1897,4864,3
+Linguistics and Language,1897,4747,4
+Language and Linguistics,1897,4747,5
+Library and Information Sciences,1897,4309,6
+General Earth and Planetary Sciences,1897,3418,7
+General Environmental Science,1897,3386,8
+General Engineering,1897,2783,9
+History,1897,1483,10
+General Medicine,1899,15247,1
+Multidisciplinary,1899,5382,2
+Literature and Literary Theory,1899,3872,3
+Linguistics and Language,1899,3740,4
+Language and Linguistics,1899,3740,5
+Library and Information Sciences,1899,3229,6
+General Earth and Planetary Sciences,1899,2958,7
+General Environmental Science,1899,2894,8
+General Engineering,1899,2548,9
+History,1899,1618,10
+General Medicine,1901,16795,1
+Multidisciplinary,1901,5235,2
+Literature and Literary Theory,1901,4452,3
+Linguistics and Language,1901,4415,4
+Language and Linguistics,1901,4415,5
+Library and Information Sciences,1901,3787,6
+General Earth and Planetary Sciences,1901,3326,7
+General Environmental Science,1901,3270,8
+General Engineering,1901,2794,9
+History,1901,1763,10
+General Medicine,1902,16866,1
+Multidisciplinary,1902,5575,2
+Literature and Literary Theory,1902,4326,3
+Language and Linguistics,1902,4215,4
+Linguistics and Language,1902,4215,5
+Library and Information Sciences,1902,3718,6
+General Earth and Planetary Sciences,1902,3106,7
+General Environmental Science,1902,3022,8
+General Engineering,1902,2520,9
+History,1902,1664,10
+General Medicine,1905,17513,1
+Multidisciplinary,1905,4840,2
+Literature and Literary Theory,1905,4103,3
+Linguistics and Language,1905,4010,4
+Language and Linguistics,1905,4010,5
+Library and Information Sciences,1905,3422,6
+General Earth and Planetary Sciences,1905,3333,7
+General Environmental Science,1905,3278,8
+General Engineering,1905,2665,9
+History,1905,1807,10
+General Medicine,1906,18480,1
+Multidisciplinary,1906,4685,2
+Literature and Literary Theory,1906,4143,3
+Language and Linguistics,1906,4091,4
+Linguistics and Language,1906,4091,5
+General Earth and Planetary Sciences,1906,3680,6
+General Environmental Science,1906,3589,7
+Library and Information Sciences,1906,3422,8
+General Engineering,1906,2918,9
+History,1906,1864,10
+General Medicine,1908,17079,1
+Multidisciplinary,1908,4563,2
+Language and Linguistics,1908,4246,3
+Literature and Literary Theory,1908,4246,4
+Linguistics and Language,1908,4246,5
+General Earth and Planetary Sciences,1908,3573,6
+General Environmental Science,1908,3476,7
+Library and Information Sciences,1908,3384,8
+General Engineering,1908,2784,9
+History,1908,1825,10
+General Medicine,1911,17359,1
+Multidisciplinary,1911,4695,2
+Literature and Literary Theory,1911,4534,3
+Linguistics and Language,1911,4431,4
+Language and Linguistics,1911,4431,5
+Library and Information Sciences,1911,3634,6
+General Earth and Planetary Sciences,1911,3541,7
+General Environmental Science,1911,3338,8
+General Engineering,1911,2648,9
+History,1911,2235,10
+General Medicine,1915,16973,1
+Multidisciplinary,1915,4256,2
+Language and Linguistics,1915,3501,3
+Linguistics and Language,1915,3444,4
+Literature and Literary Theory,1915,3399,5
+General Earth and Planetary Sciences,1915,2873,6
+General Environmental Science,1915,2740,7
+History,1915,2701,8
+Library and Information Sciences,1915,2676,9
+General Engineering,1915,2400,10
+General Medicine,1917,14888,1
+Multidisciplinary,1917,3942,2
+Language and Linguistics,1917,2908,3
+Linguistics and Language,1917,2904,4
+Literature and Literary Theory,1917,2745,5
+General Earth and Planetary Sciences,1917,2616,6
+General Environmental Science,1917,2551,7
+History,1917,2418,8
+General Engineering,1917,2269,9
+Education,1917,2145,10
+General Medicine,1918,16110,1
+Multidisciplinary,1918,4146,2
+History,1918,2651,3
+General Earth and Planetary Sciences,1918,2302,4
+General Environmental Science,1918,2191,5
+General Engineering,1918,1963,6
+Education,1918,1959,7
+Linguistics and Language,1918,1926,8
+Language and Linguistics,1918,1912,9
+Literature and Literary Theory,1918,1813,10
+General Medicine,1920,16512,1
+Multidisciplinary,1920,4745,2
+Linguistics and Language,1920,3304,3
+Language and Linguistics,1920,3231,4
+Literature and Literary Theory,1920,3172,5
+General Earth and Planetary Sciences,1920,2670,6
+General Environmental Science,1920,2576,7
+History,1920,2497,8
+General Engineering,1920,2407,9
+Library and Information Sciences,1920,2370,10
+General Medicine,1921,19357,1
+Multidisciplinary,1921,4388,2
+Linguistics and Language,1921,4243,3
+Language and Linguistics,1921,4191,4
+Literature and Literary Theory,1921,4046,5
+Library and Information Sciences,1921,3228,6
+History,1921,3064,7
+General Earth and Planetary Sciences,1921,2897,8
+General Environmental Science,1921,2803,9
+General Engineering,1921,2631,10
+General Medicine,1926,24671,1
+Multidisciplinary,1926,4713,2
+History,1926,3928,3
+General Engineering,1926,3628,4
+Linguistics and Language,1926,3560,5
+Language and Linguistics,1926,3500,6
+Literature and Literary Theory,1926,3415,7
+Education,1926,2991,8
+General Earth and Planetary Sciences,1926,2765,9
+General Environmental Science,1926,2521,10
+General Medicine,1927,27546,1
+Multidisciplinary,1927,5181,2
+History,1927,4210,3
+General Engineering,1927,3739,4
+Education,1927,3318,5
+Linguistics and Language,1927,3242,6
+Language and Linguistics,1927,3171,7
+Literature and Literary Theory,1927,3079,8
+General Earth and Planetary Sciences,1927,2984,9
+Archeology,1927,2825,10
+General Medicine,1930,30137,1
+Multidisciplinary,1930,4983,2
+History,1930,4530,3
+Education,1930,4301,4
+Linguistics and Language,1930,4224,5
+Language and Linguistics,1930,4173,6
+Literature and Literary Theory,1930,4130,7
+General Engineering,1930,3954,8
+General Earth and Planetary Sciences,1930,3498,9
+General Environmental Science,1930,3157,10
+General Medicine,1931,27820,1
+Multidisciplinary,1931,4935,2
+History,1931,4825,3
+Linguistics and Language,1931,4808,4
+Language and Linguistics,1931,4752,5
+Literature and Literary Theory,1931,4565,6
+General Engineering,1931,3924,7
+Education,1931,3869,8
+General Earth and Planetary Sciences,1931,3580,9
+General Environmental Science,1931,3176,10
+General Medicine,1932,28248,1
+Multidisciplinary,1932,6005,2
+History,1932,4830,3
+Literature and Literary Theory,1932,4773,4
+General Engineering,1932,4649,5
+Linguistics and Language,1932,4607,6
+Language and Linguistics,1932,4552,7
+General Earth and Planetary Sciences,1932,4246,8
+General Environmental Science,1932,3923,9
+Education,1932,3559,10
+General Medicine,1934,29777,1
+Multidisciplinary,1934,6056,2
+History,1934,4875,3
+Literature and Literary Theory,1934,4768,4
+Linguistics and Language,1934,4600,5
+Language and Linguistics,1934,4562,6
+General Engineering,1934,4180,7
+General Earth and Planetary Sciences,1934,3766,8
+General Environmental Science,1934,3346,9
+Education,1934,3198,10
+General Medicine,1935,30234,1
+Multidisciplinary,1935,6148,2
+History,1935,5064,3
+General Engineering,1935,4494,4
+Literature and Literary Theory,1935,4467,5
+Linguistics and Language,1935,4368,6
+Language and Linguistics,1935,4338,7
+General Earth and Planetary Sciences,1935,4125,8
+General Environmental Science,1935,3645,9
+Education,1935,3124,10
+General Medicine,1936,29102,1
+Multidisciplinary,1936,5919,2
+History,1936,5174,3
+Literature and Literary Theory,1936,5101,4
+General Engineering,1936,5087,5
+Linguistics and Language,1936,4983,6
+Language and Linguistics,1936,4974,7
+General Earth and Planetary Sciences,1936,4367,8
+General Environmental Science,1936,3816,9
+Education,1936,3345,10
+General Medicine,1937,28893,1
+Multidisciplinary,1937,6230,2
+History,1937,5571,3
+Literature and Literary Theory,1937,4977,4
+Linguistics and Language,1937,4653,5
+Language and Linguistics,1937,4635,6
+General Engineering,1937,4531,7
+General Earth and Planetary Sciences,1937,3876,8
+General Environmental Science,1937,3387,9
+Education,1937,3135,10
+General Medicine,1938,29335,1
+Multidisciplinary,1938,6153,2
+History,1938,5890,3
+Literature and Literary Theory,1938,5220,4
+Linguistics and Language,1938,4883,5
+Language and Linguistics,1938,4856,6
+General Engineering,1938,4646,7
+General Earth and Planetary Sciences,1938,4171,8
+General Environmental Science,1938,3660,9
+Education,1938,3233,10
+General Medicine,1941,26781,1
+History,1941,5231,2
+Multidisciplinary,1941,5179,3
+Literature and Literary Theory,1941,4441,4
+General Engineering,1941,4264,5
+Language and Linguistics,1941,4210,6
+Linguistics and Language,1941,4118,7
+Education,1941,3737,8
+General Earth and Planetary Sciences,1941,3529,9
+General Environmental Science,1941,3286,10
+General Medicine,1942,26316,1
+Multidisciplinary,1942,5068,2
+History,1942,4987,3
+Literature and Literary Theory,1942,4094,4
+General Engineering,1942,4046,5
+Language and Linguistics,1942,3733,6
+Linguistics and Language,1942,3706,7
+Education,1942,3329,8
+General Earth and Planetary Sciences,1942,3208,9
+General Environmental Science,1942,3054,10
+General Medicine,1944,22530,1
+Multidisciplinary,1944,4514,2
+History,1944,4142,3
+General Engineering,1944,3451,4
+Literature and Literary Theory,1944,3189,5
+General Earth and Planetary Sciences,1944,3160,6
+Education,1944,3073,7
+General Environmental Science,1944,3032,8
+Sociology and Political Science,1944,2938,9
+Linguistics and Language,1944,2895,10
+General Medicine,1945,21115,1
+Multidisciplinary,1945,4619,2
+General Engineering,1945,4024,3
+History,1945,3896,4
+General Earth and Planetary Sciences,1945,3518,5
+General Environmental Science,1945,3456,6
+Education,1945,3268,7
+Literature and Literary Theory,1945,3027,8
+Sociology and Political Science,1945,2724,9
+Linguistics and Language,1945,2696,10
+General Medicine,1951,39742,1
+History,1951,7258,2
+Biochemistry,1951,5723,3
+General Engineering,1951,5571,4
+Multidisciplinary,1951,5368,5
+General Chemistry,1951,4788,6
+General Earth and Planetary Sciences,1951,4765,7
+Literature and Literary Theory,1951,4518,8
+General Environmental Science,1951,4480,9
+Sociology and Political Science,1951,4315,10
+General Medicine,1953,42488,1
+History,1953,7310,2
+General Engineering,1953,6328,3
+Biochemistry,1953,5981,4
+General Chemistry,1953,5869,5
+Multidisciplinary,1953,5409,6
+General Earth and Planetary Sciences,1953,4824,7
+Literature and Literary Theory,1953,4682,8
+General Physics and Astronomy,1953,4579,9
+General Environmental Science,1953,4533,10
+General Medicine,1954,44330,1
+History,1954,7636,2
+General Engineering,1954,7248,3
+Biochemistry,1954,6234,4
+General Chemistry,1954,6177,5
+Multidisciplinary,1954,6095,6
+General Earth and Planetary Sciences,1954,5336,7
+General Environmental Science,1954,5052,8
+Literature and Literary Theory,1954,4875,9
+Education,1954,4872,10
+General Medicine,1955,46372,1
+History,1955,8029,2
+Biochemistry,1955,7374,3
+General Engineering,1955,7061,4
+General Chemistry,1955,6260,5
+Analytical Chemistry,1955,5897,6
+General Earth and Planetary Sciences,1955,5889,7
+Multidisciplinary,1955,5655,8
+General Environmental Science,1955,5492,9
+Education,1955,4729,10
+General Medicine,1959,51422,1
+History,1959,9564,2
+General Engineering,1959,9137,3
+Biochemistry,1959,7874,4
+General Chemistry,1959,7757,5
+Analytical Chemistry,1959,7646,6
+Multidisciplinary,1959,7506,7
+General Earth and Planetary Sciences,1959,6574,8
+General Environmental Science,1959,6148,9
+General Physics and Astronomy,1959,5811,10
+General Medicine,1963,65123,1
+General Engineering,1963,13179,2
+History,1963,10726,3
+Multidisciplinary,1963,10145,4
+General Physics and Astronomy,1963,8935,5
+General Chemistry,1963,8890,6
+Biochemistry,1963,8786,7
+Analytical Chemistry,1963,7781,8
+General Earth and Planetary Sciences,1963,7435,9
+General Environmental Science,1963,7349,10
+General Medicine,1965,67029,1
+General Engineering,1965,15570,2
+History,1965,12031,3
+General Chemistry,1965,11704,4
+General Physics and Astronomy,1965,11702,5
+Biochemistry,1965,11099,6
+Multidisciplinary,1965,10790,7
+Condensed Matter Physics,1965,8911,8
+General Earth and Planetary Sciences,1965,8670,9
+General Environmental Science,1965,8646,10
+General Medicine,1968,71647,1
+General Engineering,1968,18868,2
+General Physics and Astronomy,1968,16340,3
+Biochemistry,1968,16250,4
+History,1968,16121,5
+General Chemistry,1968,15939,6
+Condensed Matter Physics,1968,12874,7
+Physical and Theoretical Chemistry,1968,9941,8
+Organic Chemistry,1968,9743,9
+Multidisciplinary,1968,9673,10
+General Medicine,1969,75237,1
+General Engineering,1969,20643,2
+History,1969,17485,3
+Biochemistry,1969,16860,4
+General Physics and Astronomy,1969,16669,5
+General Chemistry,1969,16147,6
+Condensed Matter Physics,1969,11832,7
+Education,1969,10984,8
+General Earth and Planetary Sciences,1969,9914,9
+Physical and Theoretical Chemistry,1969,9805,10
+General Medicine,1971,93385,1
+General Engineering,1971,21393,2
+Biochemistry,1971,19954,3
+History,1971,17168,4
+Condensed Matter Physics,1971,16970,5
+General Chemistry,1971,16029,6
+General Physics and Astronomy,1971,14210,7
+Molecular Biology,1971,11798,8
+Organic Chemistry,1971,11552,9
+Physical and Theoretical Chemistry,1971,11398,10
+General Medicine,1975,103688,1
+Biochemistry,1975,25321,2
+General Engineering,1975,24731,3
+Condensed Matter Physics,1975,20493,4
+General Chemistry,1975,18284,5
+History,1975,17992,6
+Molecular Biology,1975,15010,7
+General Physics and Astronomy,1975,14612,8
+Sociology and Political Science,1975,12608,9
+Cell Biology,1975,11899,10
+General Medicine,1976,100511,1
+Biochemistry,1976,26644,2
+General Engineering,1976,24476,3
+Condensed Matter Physics,1976,20512,4
+General Chemistry,1976,20165,5
+History,1976,19229,6
+Molecular Biology,1976,15326,7
+General Physics and Astronomy,1976,15136,8
+Sociology and Political Science,1976,12890,9
+Physical and Theoretical Chemistry,1976,12344,10
+General Medicine,1981,111398,1
+Biochemistry,1981,32760,2
+General Engineering,1981,29197,3
+Condensed Matter Physics,1981,24312,4
+General Chemistry,1981,20735,5
+History,1981,20666,6
+Molecular Biology,1981,18711,7
+General Physics and Astronomy,1981,16871,8
+Cell Biology,1981,16087,9
+Sociology and Political Science,1981,15562,10
+General Medicine,1983,113455,1
+Biochemistry,1983,34439,2
+General Engineering,1983,31245,3
+Condensed Matter Physics,1983,26630,4
+Molecular Biology,1983,21642,5
+History,1983,21617,6
+General Chemistry,1983,21034,7
+General Physics and Astronomy,1983,17565,8
+Cell Biology,1983,16869,9
+Sociology and Political Science,1983,16865,10
+General Medicine,1985,121464,1
+Biochemistry,1985,36928,2
+General Engineering,1985,31931,3
+Condensed Matter Physics,1985,28383,4
+Molecular Biology,1985,23033,5
+History,1985,22642,6
+General Chemistry,1985,21190,7
+Cell Biology,1985,18794,8
+General Physics and Astronomy,1985,18717,9
+Electrical and Electronic Engineering,1985,17539,10
+General Medicine,1986,123376,1
+Biochemistry,1986,37490,2
+General Engineering,1986,32251,3
+Condensed Matter Physics,1986,30495,4
+Molecular Biology,1986,24026,5
+History,1986,23233,6
+General Chemistry,1986,21692,7
+Cell Biology,1986,20179,8
+General Physics and Astronomy,1986,18108,9
+Sociology and Political Science,1986,17935,10
+General Medicine,1988,139654,1
+Biochemistry,1988,40486,2
+Condensed Matter Physics,1988,33944,3
+General Engineering,1988,32687,4
+Molecular Biology,1988,25953,5
+History,1988,25180,6
+General Chemistry,1988,25137,7
+Cell Biology,1988,21471,8
+General Physics and Astronomy,1988,20899,9
+Sociology and Political Science,1988,19670,10
+General Medicine,1989,144417,1
+Biochemistry,1989,42879,2
+Condensed Matter Physics,1989,39438,3
+General Engineering,1989,30539,4
+Molecular Biology,1989,29316,5
+History,1989,25864,6
+General Chemistry,1989,25513,7
+Cell Biology,1989,23620,8
+General Materials Science,1989,21184,9
+Electrical and Electronic Engineering,1989,20772,10
+General Medicine,1991,130253,1
+Condensed Matter Physics,1991,47041,2
+Biochemistry,1991,46940,3
+Molecular Biology,1991,31795,4
+General Engineering,1991,29473,5
+General Materials Science,1991,27529,6
+Mechanical Engineering,1991,27345,7
+History,1991,27164,8
+General Chemistry,1991,26832,9
+Cell Biology,1991,25433,10
+General Medicine,1998,154136,1
+Biochemistry,1998,55401,2
+Condensed Matter Physics,1998,52633,3
+Molecular Biology,1998,41400,4
+General Chemistry,1998,36260,5
+Materials Chemistry,1998,32472,6
+Electrical and Electronic Engineering,1998,32457,7
+Mechanical Engineering,1998,32254,8
+History,1998,30929,9
+Surgery,1998,30622,10
+General Medicine,2000,170323,1
+Condensed Matter Physics,2000,58066,2
+Biochemistry,2000,56684,3
+Molecular Biology,2000,42622,4
+General Chemistry,2000,38265,5
+Electrical and Electronic Engineering,2000,37502,6
+Mechanical Engineering,2000,34273,7
+Materials Chemistry,2000,34178,8
+Surgery,2000,32934,9
+History,2000,32857,10
+General Medicine,2003,208679,1
+Condensed Matter Physics,2003,66657,2
+Biochemistry,2003,63475,3
+Molecular Biology,2003,50540,4
+General Chemistry,2003,45976,5
+Electrical and Electronic Engineering,2003,42724,6
+Mechanical Engineering,2003,41808,7
+Surgery,2003,41380,8
+General Materials Science,2003,39455,9
+Cardiology and Cardiovascular Medicine,2003,39286,10
+General Medicine,2006,258247,1
+Condensed Matter Physics,2006,89059,2
+Biochemistry,2006,82896,3
+Molecular Biology,2006,64057,4
+General Chemistry,2006,62932,5
+Electrical and Electronic Engineering,2006,59195,6
+General Materials Science,2006,53770,7
+Mechanical Engineering,2006,51368,8
+Surgery,2006,51016,9
+Materials Chemistry,2006,48022,10
+General Medicine,2012,376734,1
+Condensed Matter Physics,2012,99594,2
+Biochemistry,2012,93598,3
+General Chemistry,2012,90412,4
+General Materials Science,2012,80572,5
+Electrical and Electronic Engineering,2012,80382,6
+Molecular Biology,2012,74558,7
+Oncology,2012,68645,8
+General Engineering,2012,67980,9
+Surgery,2012,65550,10
+General Medicine,2013,413465,1
+Condensed Matter Physics,2013,99822,2
+General Chemistry,2013,97259,3
+Biochemistry,2013,95269,4
+Electrical and Electronic Engineering,2013,88674,5
+General Materials Science,2013,87103,6
+Molecular Biology,2013,75079,7
+Mechanical Engineering,2013,69907,8
+Surgery,2013,68775,9
+General Engineering,2013,68719,10
+General Medicine,2015,451004,1
+General Chemistry,2015,111445,2
+Condensed Matter Physics,2015,102153,3
+General Materials Science,2015,97764,4
+Electrical and Electronic Engineering,2015,97601,5
+Biochemistry,2015,95750,6
+Oncology,2015,82763,7
+Mechanical Engineering,2015,76252,8
+Molecular Biology,2015,76037,9
+Surgery,2015,73596,10
+General Medicine,2016,458462,1
+General Chemistry,2016,115870,2
+General Materials Science,2016,106479,3
+Electrical and Electronic Engineering,2016,106200,4
+Condensed Matter Physics,2016,105149,5
+Biochemistry,2016,90220,6
+Oncology,2016,89354,7
+Mechanical Engineering,2016,87791,8
+Multidisciplinary,2016,78258,9
+Surgery,2016,74339,10
+General Medicine,2018,495246,1
+General Chemistry,2018,125472,2
+General Materials Science,2018,125056,3
+Electrical and Electronic Engineering,2018,124052,4
+Condensed Matter Physics,2018,108034,5
+Biochemistry,2018,104714,6
+Oncology,2018,95700,7
+Mechanical Engineering,2018,92436,8
+Computer Science Applications,2018,82450,9
+Surgery,2018,79837,10
+General Medicine,2020,607559,1
+General Materials Science,2020,160168,2
+Electrical and Electronic Engineering,2020,149702,3
+General Chemistry,2020,139875,4
+Computer Science Applications,2020,120964,5
+Biochemistry,2020,111777,6
+Condensed Matter Physics,2020,108728,7
+General Engineering,2020,107001,8
+Oncology,2020,100483,9
+General Environmental Science,2020,99074,10
+General Medicine,2021,632341,1
+General Materials Science,2021,164678,2
+Electrical and Electronic Engineering,2021,157251,3
+Computer Science Applications,2021,145816,4
+General Chemistry,2021,139002,5
+Biochemistry,2021,114880,6
+History,2021,112999,7
+Education,2021,112431,8
+General Engineering,2021,109512,9
+Condensed Matter Physics,2021,108869,10
+General Agricultural and Biological Sciences,2024,358,1
+General Environmental Science,2024,205,2
+General Medicine,2024,204,3
+Environmental Engineering,2024,180,4
+Environmental Chemistry,2024,176,5
+"Statistics, Probability and Uncertainty",2024,144,6
+Statistics and Probability,2024,135,7
+Computer Networks and Communications,2024,74,8
+Computer Science Applications,2024,69,9
+Economics and Econometrics,2024,65,10
+General Medicine,2025,34,1
+Sociology and Political Science,2025,33,2
+Philosophy,2025,31,3
+Social Sciences (miscellaneous),2025,31,4
+Arts and Humanities (miscellaneous),2025,31,5
+History,2025,31,6
+"Statistics, Probability and Uncertainty",2025,6,7
+Statistics and Probability,2025,6,8
+General Veterinary,2025,3,9
+Environmental Science (miscellaneous),2025,2,10
+Energy Engineering and Power Technology,2029,8,1
+Fuel Technology,2029,8,2
+General Veterinary,2029,1,3
+General Medicine,2029,1,4
+"General Economics, Econometrics and Finance",2030,4,1
+Applied Mathematics,2030,1,2
+General Mathematics,2030,1,3
+Mathematics (miscellaneous),2030,1,4
+Theoretical Computer Science,2030,1,5
+Philosophy,2032,13,1
+General Medicine,2032,10,2
+Industrial and Manufacturing Engineering,2032,5,3
+Visual Arts and Performing Arts,2032,5,4
+History,2032,5,5
+Architecture,2032,5,6
+Ecology,2032,4,7
+Health (social science),2032,4,8
+Environmental Engineering,2032,4,9
+Political Science and International Relations,2032,4,10
+Biochemistry,2047,9,1
+Biotechnology,2047,9,2
+Cell Biology,2047,9,3
+Molecular Biology,2047,9,4
+General Medicine,2051,16,1
+General Earth and Planetary Sciences,2070,1,1
+General Environmental Science,2070,1,2
+General Psychology,2088,1,1
+Education,2088,1,2
+Pharmacology (medical),2100,24,1
+Complementary and alternative medicine,2100,24,2
+"General Pharmacology, Toxicology and Pharmaceutics",2100,24,3
+Surgery,2105,1,1
+Dermatology,2105,1,2
+"Ecology, Evolution, Behavior and Systematics",2108,10,1
+Paleontology,2108,10,2
+Animal Science and Zoology,2108,10,3
+General Medicine,2108,7,4
+General Engineering,2108,1,5
+General Social Sciences,2121,12,1
+General Arts and Humanities,2121,12,2
+Pharmacology,2121,2,3
+General Earth and Planetary Sciences,2121,1,4
+General Environmental Science,2121,1,5
+Earth-Surface Processes,1728,10,1
+Philosophy,1769,49,1
+General Medicine,1770,66,1
+General Medicine,1775,47,1
+General Medicine,1779,117,1
+General Materials Science,1783,40,1
+Philosophy,1786,45,1
+General Medicine,1787,45,1
+General Environmental Science,1788,43,1
+General Earth and Planetary Sciences,1788,43,2
+General Medicine,1789,82,1
+General Environmental Science,1790,37,1
+General Earth and Planetary Sciences,1790,37,2
+General Medicine,1792,34,1
+Philosophy,1793,44,1
+General Materials Science,1793,24,2
+General Earth and Planetary Sciences,1794,35,1
+General Environmental Science,1794,35,2
+General Physics and Astronomy,1799,93,1
+Philosophy,1799,53,2
+General Physics and Astronomy,1800,183,1
+General Medicine,1800,36,2
+General Physics and Astronomy,1802,106,1
+Philosophy,1802,25,2
+General Physics and Astronomy,1803,218,1
+General Medicine,1803,40,2
+General Physics and Astronomy,1808,137,1
+General Physics and Astronomy,1809,129,1
+General Medicine,1809,68,2
+Philosophy,1809,63,3
+General Materials Science,1809,26,4
+General Medicine,1812,200,1
+General Physics and Astronomy,1812,123,2
+General Earth and Planetary Sciences,1812,19,3
+General Environmental Science,1812,19,4
+General Physics and Astronomy,1813,112,1
+General Medicine,1813,102,2
+General Medicine,1814,178,1
+General Physics and Astronomy,1814,107,2
+Organizational Behavior and Human Resource Management,1814,26,3
+Drug Discovery,1814,26,4
+Strategy and Management,1814,26,5
+Pharmacology,1814,26,6
+Marketing,1814,26,7
+Pharmaceutical Science,1814,26,8
+General Medicine,1817,175,1
+General Physics and Astronomy,1817,116,2
+Marketing,1817,33,3
+Drug Discovery,1817,33,4
+Organizational Behavior and Human Resource Management,1817,33,5
+Pharmaceutical Science,1817,33,6
+Strategy and Management,1817,33,7
+Pharmacology,1817,33,8
+General Physics and Astronomy,1818,128,1
+General Medicine,1818,117,2
+Philosophy,1818,37,3
+General Earth and Planetary Sciences,1818,27,4
+General Environmental Science,1818,27,5
+General Physics and Astronomy,1819,125,1
+General Medicine,1819,90,2
+General Medicine,1823,349,1
+Astronomy and Astrophysics,1823,266,2
+Space and Planetary Science,1823,266,3
+General Physics and Astronomy,1823,149,4
+Drug Discovery,1823,130,5
+Pharmaceutical Science,1823,130,6
+General Environmental Science,1823,44,7
+General Earth and Planetary Sciences,1823,44,8
+General Medicine,1825,721,1
+Pharmaceutical Science,1825,329,2
+Drug Discovery,1825,329,3
+Space and Planetary Science,1825,238,4
+Astronomy and Astrophysics,1825,238,5
+General Physics and Astronomy,1825,121,6
+Philosophy,1825,16,7
+"General Biochemistry, Genetics and Molecular Biology",1825,1,8
+History and Philosophy of Science,1825,1,9
+General Medicine,1827,1006,1
+Drug Discovery,1827,493,2
+Pharmaceutical Science,1827,493,3
+Applied Mathematics,1827,424,4
+Computer Networks and Communications,1827,380,5
+Signal Processing,1827,380,6
+Control and Systems Engineering,1827,380,7
+General Physics and Astronomy,1827,212,8
+Astronomy and Astrophysics,1827,159,9
+Space and Planetary Science,1827,159,10
+General Medicine,1829,1567,1
+Drug Discovery,1829,373,2
+Pharmaceutical Science,1829,373,3
+Energy Engineering and Power Technology,1829,327,4
+Fuel Technology,1829,327,5
+Applied Mathematics,1829,255,6
+Signal Processing,1829,220,7
+Control and Systems Engineering,1829,220,8
+Computer Networks and Communications,1829,220,9
+General Physics and Astronomy,1829,217,10
+General Medicine,1831,1425,1
+Astronomy and Astrophysics,1831,396,2
+Space and Planetary Science,1831,396,3
+Applied Mathematics,1831,275,4
+Fuel Technology,1831,262,5
+Energy Engineering and Power Technology,1831,262,6
+Control and Systems Engineering,1831,240,7
+Computer Networks and Communications,1831,240,8
+Signal Processing,1831,240,9
+Drug Discovery,1831,198,10
+General Medicine,1832,1429,1
+Physical and Theoretical Chemistry,1832,556,2
+Organic Chemistry,1832,556,3
+Applied Mathematics,1832,338,4
+Industrial and Manufacturing Engineering,1832,318,5
+Control and Systems Engineering,1832,267,6
+Signal Processing,1832,267,7
+Computer Networks and Communications,1832,267,8
+Fuel Technology,1832,248,9
+Energy Engineering and Power Technology,1832,248,10
+General Medicine,1833,1375,1
+Physical and Theoretical Chemistry,1833,584,2
+Organic Chemistry,1833,584,3
+Industrial and Manufacturing Engineering,1833,408,4
+Fuel Technology,1833,252,5
+Energy Engineering and Power Technology,1833,252,6
+Applied Mathematics,1833,248,7
+General Physics and Astronomy,1833,238,8
+Space and Planetary Science,1833,233,9
+Astronomy and Astrophysics,1833,233,10
+General Medicine,1835,1424,1
+Organic Chemistry,1835,698,2
+Physical and Theoretical Chemistry,1835,698,3
+Pharmaceutical Science,1835,326,4
+Drug Discovery,1835,326,5
+Applied Mathematics,1835,298,6
+Energy Engineering and Power Technology,1835,277,7
+Fuel Technology,1835,277,8
+Computer Networks and Communications,1835,242,9
+Signal Processing,1835,242,10
+General Medicine,1837,1510,1
+Physical and Theoretical Chemistry,1837,700,2
+Organic Chemistry,1837,700,3
+Applied Mathematics,1837,436,4
+Signal Processing,1837,372,5
+Control and Systems Engineering,1837,372,6
+Computer Networks and Communications,1837,372,7
+Industrial and Manufacturing Engineering,1837,305,8
+Fuel Technology,1837,264,9
+Energy Engineering and Power Technology,1837,264,10
+General Medicine,1839,1904,1
+Physical and Theoretical Chemistry,1839,520,2
+Organic Chemistry,1839,520,3
+Applied Mathematics,1839,355,4
+Drug Discovery,1839,342,5
+Pharmaceutical Science,1839,342,6
+Control and Systems Engineering,1839,334,7
+Signal Processing,1839,334,8
+Computer Networks and Communications,1839,334,9
+Fuel Technology,1839,281,10
+General Medicine,1840,2323,1
+Organic Chemistry,1840,436,2
+Physical and Theoretical Chemistry,1840,436,3
+Pharmaceutical Science,1840,404,4
+Drug Discovery,1840,404,5
+Applied Mathematics,1840,371,6
+Computer Networks and Communications,1840,318,7
+Signal Processing,1840,318,8
+Control and Systems Engineering,1840,318,9
+Energy Engineering and Power Technology,1840,277,10
+General Medicine,1842,3487,1
+General Environmental Science,1842,736,2
+General Earth and Planetary Sciences,1842,736,3
+General Engineering,1842,734,4
+Organic Chemistry,1842,504,5
+Physical and Theoretical Chemistry,1842,504,6
+Pharmaceutical Science,1842,453,7
+Drug Discovery,1842,453,8
+Fuel Technology,1842,291,9
+Energy Engineering and Power Technology,1842,291,10
+General Medicine,1843,3371,1
+General Earth and Planetary Sciences,1843,705,2
+General Engineering,1843,705,3
+General Environmental Science,1843,705,4
+Drug Discovery,1843,623,5
+Pharmaceutical Science,1843,623,6
+Organic Chemistry,1843,416,7
+Physical and Theoretical Chemistry,1843,416,8
+Fuel Technology,1843,310,9
+Energy Engineering and Power Technology,1843,310,10
+Multidisciplinary,1848,3817,1
+General Medicine,1848,3387,2
+Physical and Theoretical Chemistry,1848,660,3
+Organic Chemistry,1848,660,4
+Pharmaceutical Science,1848,516,5
+Drug Discovery,1848,516,6
+Astronomy and Astrophysics,1848,505,7
+Space and Planetary Science,1848,505,8
+General Earth and Planetary Sciences,1848,435,9
+General Environmental Science,1848,435,10
+General Medicine,1849,3494,1
+Multidisciplinary,1849,2941,2
+General Environmental Science,1849,653,3
+General Earth and Planetary Sciences,1849,653,4
+Drug Discovery,1849,507,5
+Pharmaceutical Science,1849,507,6
+Physical and Theoretical Chemistry,1849,490,7
+Organic Chemistry,1849,490,8
+General Engineering,1849,453,9
+Astronomy and Astrophysics,1849,429,10
+General Medicine,1850,3163,1
+Linguistics and Language,1850,2702,2
+Language and Linguistics,1850,2702,3
+Literature and Literary Theory,1850,2681,4
+Library and Information Sciences,1850,2611,5
+Multidisciplinary,1850,2607,6
+General Earth and Planetary Sciences,1850,521,7
+General Environmental Science,1850,521,8
+General Engineering,1850,503,9
+Organic Chemistry,1850,494,10
+General Medicine,1851,3125,1
+Language and Linguistics,1851,2918,2
+Linguistics and Language,1851,2918,3
+Literature and Literary Theory,1851,2899,4
+Library and Information Sciences,1851,2803,5
+Multidisciplinary,1851,2252,6
+General Engineering,1851,643,7
+Space and Planetary Science,1851,584,8
+Astronomy and Astrophysics,1851,584,9
+General Earth and Planetary Sciences,1851,465,10
+Linguistics and Language,1852,3721,1
+Language and Linguistics,1852,3721,2
+Literature and Literary Theory,1852,3699,3
+Library and Information Sciences,1852,3663,4
+General Medicine,1852,2797,5
+Multidisciplinary,1852,2588,6
+Astronomy and Astrophysics,1852,550,7
+Space and Planetary Science,1852,550,8
+Organic Chemistry,1852,448,9
+Physical and Theoretical Chemistry,1852,448,10
+General Medicine,1853,3562,1
+Language and Linguistics,1853,3561,2
+Linguistics and Language,1853,3561,3
+Literature and Literary Theory,1853,3519,4
+Library and Information Sciences,1853,3449,5
+Multidisciplinary,1853,1969,6
+General Earth and Planetary Sciences,1853,861,7
+General Environmental Science,1853,861,8
+General Engineering,1853,704,9
+Astronomy and Astrophysics,1853,541,10
+General Medicine,1857,4572,1
+Language and Linguistics,1857,3336,2
+Linguistics and Language,1857,3336,3
+Literature and Literary Theory,1857,3283,4
+Library and Information Sciences,1857,3183,5
+Multidisciplinary,1857,1787,6
+General Engineering,1857,1017,7
+General Earth and Planetary Sciences,1857,1010,8
+General Environmental Science,1857,1010,9
+Astronomy and Astrophysics,1857,701,10
+General Medicine,1859,4103,1
+Linguistics and Language,1859,3483,2
+Language and Linguistics,1859,3483,3
+Literature and Literary Theory,1859,3404,4
+Library and Information Sciences,1859,3325,5
+Multidisciplinary,1859,1582,6
+General Earth and Planetary Sciences,1859,985,7
+General Environmental Science,1859,985,8
+General Engineering,1859,752,9
+Astronomy and Astrophysics,1859,733,10
+General Medicine,1862,4175,1
+Linguistics and Language,1862,3440,2
+Language and Linguistics,1862,3440,3
+Literature and Literary Theory,1862,3372,4
+Library and Information Sciences,1862,3337,5
+Multidisciplinary,1862,988,6
+General Earth and Planetary Sciences,1862,914,7
+General Engineering,1862,872,8
+General Environmental Science,1862,837,9
+Astronomy and Astrophysics,1862,678,10
+General Medicine,1863,4208,1
+Linguistics and Language,1863,3602,2
+Language and Linguistics,1863,3602,3
+Literature and Literary Theory,1863,3555,4
+Library and Information Sciences,1863,3362,5
+Multidisciplinary,1863,1030,6
+General Earth and Planetary Sciences,1863,885,7
+General Environmental Science,1863,807,8
+General Engineering,1863,649,9
+Drug Discovery,1863,557,10
+General Medicine,1864,4014,1
+Linguistics and Language,1864,3147,2
+Language and Linguistics,1864,3147,3
+Literature and Literary Theory,1864,3074,4
+Library and Information Sciences,1864,2964,5
+Multidisciplinary,1864,1143,6
+General Earth and Planetary Sciences,1864,884,7
+General Environmental Science,1864,804,8
+General Engineering,1864,600,9
+Drug Discovery,1864,562,10
+General Medicine,1865,4088,1
+Linguistics and Language,1865,2258,2
+Language and Linguistics,1865,2258,3
+Literature and Literary Theory,1865,2212,4
+Library and Information Sciences,1865,2087,5
+Multidisciplinary,1865,1084,6
+General Earth and Planetary Sciences,1865,806,7
+General Environmental Science,1865,724,8
+General Engineering,1865,555,9
+Pharmaceutical Science,1865,530,10
+General Medicine,1866,3908,1
+Language and Linguistics,1866,3697,2
+Linguistics and Language,1866,3697,3
+Literature and Literary Theory,1866,3619,4
+Library and Information Sciences,1866,3420,5
+Multidisciplinary,1866,1048,6
+General Earth and Planetary Sciences,1866,844,7
+General Environmental Science,1866,738,8
+General Engineering,1866,724,9
+Drug Discovery,1866,485,10
+General Medicine,1867,4582,1
+Linguistics and Language,1867,4259,2
+Language and Linguistics,1867,4259,3
+Literature and Literary Theory,1867,4141,4
+Library and Information Sciences,1867,3944,5
+Multidisciplinary,1867,1232,6
+General Earth and Planetary Sciences,1867,1044,7
+General Environmental Science,1867,955,8
+General Engineering,1867,734,9
+Astronomy and Astrophysics,1867,604,10
+General Medicine,1868,5106,1
+Linguistics and Language,1868,3815,2
+Language and Linguistics,1868,3815,3
+Literature and Literary Theory,1868,3770,4
+Library and Information Sciences,1868,3667,5
+Multidisciplinary,1868,1192,6
+General Earth and Planetary Sciences,1868,1046,7
+General Environmental Science,1868,958,8
+General Engineering,1868,841,9
+Drug Discovery,1868,553,10
+General Medicine,1869,4829,1
+Linguistics and Language,1869,2335,2
+Language and Linguistics,1869,2335,3
+Literature and Literary Theory,1869,2275,4
+Library and Information Sciences,1869,2059,5
+Multidisciplinary,1869,1421,6
+General Earth and Planetary Sciences,1869,1025,7
+General Environmental Science,1869,940,8
+General Engineering,1869,898,9
+"Ecology, Evolution, Behavior and Systematics",1869,512,10
+General Medicine,1870,4873,1
+Language and Linguistics,1870,3961,2
+Linguistics and Language,1870,3961,3
+Literature and Literary Theory,1870,3918,4
+Library and Information Sciences,1870,3812,5
+Multidisciplinary,1870,2409,6
+General Earth and Planetary Sciences,1870,1054,7
+General Environmental Science,1870,958,8
+General Engineering,1870,719,9
+"Ecology, Evolution, Behavior and Systematics",1870,443,10
+General Medicine,1871,5388,1
+Multidisciplinary,1871,2437,2
+Linguistics and Language,1871,2018,3
+Language and Linguistics,1871,2018,4
+Literature and Literary Theory,1871,1966,5
+Library and Information Sciences,1871,1929,6
+General Earth and Planetary Sciences,1871,1112,7
+General Environmental Science,1871,986,8
+General Engineering,1871,890,9
+"Ecology, Evolution, Behavior and Systematics",1871,565,10
+General Medicine,1874,5375,1
+Language and Linguistics,1874,4171,2
+Linguistics and Language,1874,4171,3
+Literature and Literary Theory,1874,4100,4
+Library and Information Sciences,1874,3929,5
+Multidisciplinary,1874,2308,6
+General Earth and Planetary Sciences,1874,1274,7
+General Environmental Science,1874,1167,8
+General Engineering,1874,978,9
+Energy Engineering and Power Technology,1874,610,10
+General Medicine,1875,5500,1
+Language and Linguistics,1875,4108,2
+Linguistics and Language,1875,4108,3
+Literature and Literary Theory,1875,4074,4
+Library and Information Sciences,1875,3952,5
+Multidisciplinary,1875,2388,6
+General Earth and Planetary Sciences,1875,1189,7
+General Engineering,1875,1122,8
+General Environmental Science,1875,1091,9
+Energy Engineering and Power Technology,1875,667,10
+General Medicine,1876,5786,1
+Language and Linguistics,1876,4334,2
+Linguistics and Language,1876,4334,3
+Literature and Literary Theory,1876,4269,4
+Library and Information Sciences,1876,4114,5
+Multidisciplinary,1876,3997,6
+General Earth and Planetary Sciences,1876,1306,7
+General Environmental Science,1876,1198,8
+General Engineering,1876,1010,9
+Pharmaceutical Science,1876,704,10
+General Medicine,1879,6672,1
+Language and Linguistics,1879,4791,2
+Linguistics and Language,1879,4791,3
+Literature and Literary Theory,1879,4720,4
+Library and Information Sciences,1879,4552,5
+Multidisciplinary,1879,4013,6
+General Earth and Planetary Sciences,1879,1375,7
+General Environmental Science,1879,1299,8
+General Engineering,1879,983,9
+Energy Engineering and Power Technology,1879,771,10
+Linguistics and Language,1880,7487,1
+Language and Linguistics,1880,7487,2
+Literature and Literary Theory,1880,7422,3
+Library and Information Sciences,1880,7154,4
+General Medicine,1880,6504,5
+Multidisciplinary,1880,5150,6
+General Earth and Planetary Sciences,1880,1528,7
+General Environmental Science,1880,1438,8
+General Engineering,1880,1257,9
+Pharmaceutical Science,1880,759,10
+General Medicine,1884,8801,1
+Multidisciplinary,1884,5269,2
+Linguistics and Language,1884,4260,3
+Language and Linguistics,1884,4260,4
+Literature and Literary Theory,1884,4181,5
+Library and Information Sciences,1884,3859,6
+General Earth and Planetary Sciences,1884,1633,7
+General Environmental Science,1884,1568,8
+General Engineering,1884,1401,9
+"Ecology, Evolution, Behavior and Systematics",1884,1011,10
+General Medicine,1886,8653,1
+Multidisciplinary,1886,5961,2
+Linguistics and Language,1886,4447,3
+Language and Linguistics,1886,4447,4
+Literature and Literary Theory,1886,4394,5
+Library and Information Sciences,1886,4144,6
+General Earth and Planetary Sciences,1886,2009,7
+General Environmental Science,1886,1959,8
+General Engineering,1886,1460,9
+Astronomy and Astrophysics,1886,899,10
+General Medicine,1888,10233,1
+Multidisciplinary,1888,5760,2
+Literature and Literary Theory,1888,4952,3
+Language and Linguistics,1888,4774,4
+Linguistics and Language,1888,4774,5
+Library and Information Sciences,1888,4466,6
+General Earth and Planetary Sciences,1888,2263,7
+General Environmental Science,1888,2216,8
+General Engineering,1888,1741,9
+"Ecology, Evolution, Behavior and Systematics",1888,965,10
+General Medicine,1889,10983,1
+Multidisciplinary,1889,5577,2
+Literature and Literary Theory,1889,5065,3
+Linguistics and Language,1889,4874,4
+Language and Linguistics,1889,4874,5
+Library and Information Sciences,1889,4601,6
+General Earth and Planetary Sciences,1889,2154,7
+General Environmental Science,1889,2105,8
+General Engineering,1889,1651,9
+Astronomy and Astrophysics,1889,961,10
+General Medicine,1890,12408,1
+Multidisciplinary,1890,4934,2
+Literature and Literary Theory,1890,4739,3
+Language and Linguistics,1890,4539,4
+Linguistics and Language,1890,4539,5
+Library and Information Sciences,1890,4330,6
+General Earth and Planetary Sciences,1890,2180,7
+General Environmental Science,1890,2137,8
+General Engineering,1890,1609,9
+Astronomy and Astrophysics,1890,1040,10
+General Medicine,1894,14411,1
+Literature and Literary Theory,1894,5365,2
+Language and Linguistics,1894,5261,3
+Linguistics and Language,1894,5261,4
+Library and Information Sciences,1894,4746,5
+Multidisciplinary,1894,3939,6
+General Earth and Planetary Sciences,1894,3156,7
+General Environmental Science,1894,3098,8
+General Engineering,1894,2448,9
+History,1894,1275,10
+General Medicine,1896,15271,1
+Multidisciplinary,1896,5470,2
+Literature and Literary Theory,1896,4854,3
+Linguistics and Language,1896,4700,4
+Language and Linguistics,1896,4700,5
+Library and Information Sciences,1896,4332,6
+General Earth and Planetary Sciences,1896,3060,7
+General Environmental Science,1896,3019,8
+General Engineering,1896,2595,9
+History,1896,1575,10
+General Medicine,1898,16079,1
+Multidisciplinary,1898,5174,2
+Literature and Literary Theory,1898,4642,3
+Language and Linguistics,1898,4505,4
+Linguistics and Language,1898,4505,5
+Library and Information Sciences,1898,4222,6
+General Earth and Planetary Sciences,1898,3111,7
+General Environmental Science,1898,3042,8
+General Engineering,1898,2657,9
+History,1898,1441,10
+General Medicine,1900,15732,1
+Multidisciplinary,1900,5110,2
+Literature and Literary Theory,1900,4346,3
+Linguistics and Language,1900,4167,4
+Language and Linguistics,1900,4167,5
+Library and Information Sciences,1900,3694,6
+General Earth and Planetary Sciences,1900,2872,7
+General Environmental Science,1900,2836,8
+General Engineering,1900,2450,9
+History,1900,1525,10
+General Medicine,1903,16696,1
+Multidisciplinary,1903,5571,2
+Literature and Literary Theory,1903,4005,3
+Linguistics and Language,1903,3942,4
+Language and Linguistics,1903,3942,5
+General Earth and Planetary Sciences,1903,3339,6
+Library and Information Sciences,1903,3324,7
+General Environmental Science,1903,3270,8
+General Engineering,1903,2635,9
+History,1903,1721,10
+General Medicine,1904,17745,1
+Multidisciplinary,1904,5367,2
+Literature and Literary Theory,1904,4149,3
+Language and Linguistics,1904,3986,4
+Linguistics and Language,1904,3986,5
+Library and Information Sciences,1904,3541,6
+General Earth and Planetary Sciences,1904,3300,7
+General Environmental Science,1904,3239,8
+General Engineering,1904,2659,9
+History,1904,1646,10
+General Medicine,1907,18808,1
+Multidisciplinary,1907,4561,2
+Literature and Literary Theory,1907,4119,3
+Linguistics and Language,1907,4047,4
+Language and Linguistics,1907,4047,5
+General Earth and Planetary Sciences,1907,3958,6
+General Environmental Science,1907,3887,7
+Library and Information Sciences,1907,3336,8
+General Engineering,1907,3080,9
+History,1907,1937,10
+General Medicine,1909,17596,1
+Multidisciplinary,1909,5082,2
+Linguistics and Language,1909,4601,3
+Language and Linguistics,1909,4601,4
+Literature and Literary Theory,1909,4551,5
+General Earth and Planetary Sciences,1909,3672,6
+Library and Information Sciences,1909,3671,7
+General Environmental Science,1909,3532,8
+General Engineering,1909,2936,9
+Education,1909,1925,10
+General Medicine,1910,18719,1
+Multidisciplinary,1910,4762,2
+Language and Linguistics,1910,4435,3
+Linguistics and Language,1910,4435,4
+Literature and Literary Theory,1910,4416,5
+General Earth and Planetary Sciences,1910,4052,6
+General Environmental Science,1910,3814,7
+Library and Information Sciences,1910,3450,8
+General Engineering,1910,3119,9
+History,1910,1972,10
+General Medicine,1912,17201,1
+Language and Linguistics,1912,4272,2
+Linguistics and Language,1912,4272,3
+Literature and Literary Theory,1912,4121,4
+Multidisciplinary,1912,4072,5
+General Earth and Planetary Sciences,1912,3577,6
+General Environmental Science,1912,3360,7
+Library and Information Sciences,1912,3125,8
+General Engineering,1912,2769,9
+History,1912,2263,10
+General Medicine,1913,19978,1
+Multidisciplinary,1913,3995,2
+General Earth and Planetary Sciences,1913,3340,3
+General Environmental Science,1913,3149,4
+Linguistics and Language,1913,3045,5
+Language and Linguistics,1913,3045,6
+Literature and Literary Theory,1913,2954,7
+General Engineering,1913,2643,8
+History,1913,2443,9
+"Ecology, Evolution, Behavior and Systematics",1913,2256,10
+General Medicine,1914,17156,1
+Multidisciplinary,1914,3901,2
+Literature and Literary Theory,1914,3284,3
+Language and Linguistics,1914,3191,4
+Linguistics and Language,1914,3191,5
+General Earth and Planetary Sciences,1914,3165,6
+General Environmental Science,1914,2984,7
+General Engineering,1914,2598,8
+History,1914,2469,9
+Library and Information Sciences,1914,2416,10
+General Medicine,1916,16049,1
+Multidisciplinary,1916,4116,2
+Language and Linguistics,1916,4108,3
+Linguistics and Language,1916,4092,4
+Literature and Literary Theory,1916,4052,5
+Library and Information Sciences,1916,3242,6
+History,1916,2747,7
+General Earth and Planetary Sciences,1916,2738,8
+General Environmental Science,1916,2606,9
+General Engineering,1916,2193,10
+General Medicine,1919,15489,1
+Multidisciplinary,1919,3841,2
+General Earth and Planetary Sciences,1919,2786,3
+General Environmental Science,1919,2677,4
+General Engineering,1919,2470,5
+Education,1919,2398,6
+History,1919,2075,7
+"Ecology, Evolution, Behavior and Systematics",1919,1837,8
+Linguistics and Language,1919,1726,9
+Language and Linguistics,1919,1671,10
+General Medicine,1922,22340,1
+Multidisciplinary,1922,4378,2
+Linguistics and Language,1922,3983,3
+Language and Linguistics,1922,3916,4
+Literature and Literary Theory,1922,3891,5
+History,1922,3332,6
+General Earth and Planetary Sciences,1922,3154,7
+Library and Information Sciences,1922,2948,8
+General Environmental Science,1922,2943,9
+General Engineering,1922,2762,10
+General Medicine,1923,21873,1
+Multidisciplinary,1923,4832,2
+Linguistics and Language,1923,3897,3
+Language and Linguistics,1923,3830,4
+Literature and Literary Theory,1923,3717,5
+General Engineering,1923,3637,6
+History,1923,3273,7
+General Earth and Planetary Sciences,1923,2863,8
+General Environmental Science,1923,2747,9
+Library and Information Sciences,1923,2680,10
+General Medicine,1924,22860,1
+Multidisciplinary,1924,4817,2
+General Engineering,1924,3808,3
+Linguistics and Language,1924,3786,4
+History,1924,3781,5
+Language and Linguistics,1924,3721,6
+Literature and Literary Theory,1924,3678,7
+General Earth and Planetary Sciences,1924,3001,8
+General Environmental Science,1924,2806,9
+Education,1924,2541,10
+General Medicine,1925,23430,1
+Multidisciplinary,1925,5028,2
+Linguistics and Language,1925,4340,3
+Language and Linguistics,1925,4297,4
+Literature and Literary Theory,1925,4233,5
+History,1925,3764,6
+General Engineering,1925,3759,7
+Library and Information Sciences,1925,3054,8
+General Earth and Planetary Sciences,1925,2910,9
+Education,1925,2850,10
+General Medicine,1928,28198,1
+Multidisciplinary,1928,5073,2
+History,1928,4474,3
+General Engineering,1928,3765,4
+Linguistics and Language,1928,3454,5
+Education,1928,3411,6
+Language and Linguistics,1928,3396,7
+Literature and Literary Theory,1928,3337,8
+General Earth and Planetary Sciences,1928,3162,9
+General Environmental Science,1928,2895,10
+General Medicine,1929,27296,1
+Multidisciplinary,1929,5423,2
+History,1929,4457,3
+General Engineering,1929,4312,4
+Literature and Literary Theory,1929,4071,5
+Linguistics and Language,1929,4029,6
+Language and Linguistics,1929,3964,7
+General Earth and Planetary Sciences,1929,3911,8
+General Environmental Science,1929,3656,9
+Education,1929,3497,10
+General Medicine,1933,30856,1
+Multidisciplinary,1933,5940,2
+History,1933,4640,3
+Linguistics and Language,1933,4582,4
+Language and Linguistics,1933,4549,5
+Literature and Literary Theory,1933,4510,6
+General Engineering,1933,4231,7
+General Earth and Planetary Sciences,1933,3774,8
+General Environmental Science,1933,3395,9
+Education,1933,3112,10
+General Medicine,1939,28118,1
+Multidisciplinary,1939,6268,2
+History,1939,5624,3
+General Engineering,1939,4642,4
+General Earth and Planetary Sciences,1939,4022,5
+Literature and Literary Theory,1939,3790,6
+General Environmental Science,1939,3611,7
+Sociology and Political Science,1939,3418,8
+Language and Linguistics,1939,3387,9
+Linguistics and Language,1939,3358,10
+General Medicine,1940,26083,1
+Multidisciplinary,1940,5733,2
+History,1940,5308,3
+General Engineering,1940,4459,4
+Literature and Literary Theory,1940,4423,5
+Language and Linguistics,1940,4064,6
+Linguistics and Language,1940,3967,7
+General Earth and Planetary Sciences,1940,3512,8
+Education,1940,3507,9
+General Environmental Science,1940,3159,10
+General Medicine,1943,23450,1
+History,1943,4847,2
+Multidisciplinary,1943,4565,3
+General Engineering,1943,3873,4
+Education,1943,3402,5
+General Earth and Planetary Sciences,1943,3273,6
+General Environmental Science,1943,3125,7
+Literature and Literary Theory,1943,3054,8
+Language and Linguistics,1943,2726,9
+Linguistics and Language,1943,2691,10
+General Medicine,1946,24769,1
+Multidisciplinary,1946,4637,2
+History,1946,4477,3
+General Engineering,1946,4354,4
+General Earth and Planetary Sciences,1946,3582,5
+Education,1946,3495,6
+Literature and Literary Theory,1946,3447,7
+General Environmental Science,1946,3447,8
+Linguistics and Language,1946,2910,9
+Language and Linguistics,1946,2831,10
+General Medicine,1947,28177,1
+History,1947,5394,2
+General Engineering,1947,4408,3
+Multidisciplinary,1947,4362,4
+Education,1947,3480,5
+General Earth and Planetary Sciences,1947,3462,6
+Literature and Literary Theory,1947,3443,7
+General Environmental Science,1947,3362,8
+Sociology and Political Science,1947,3329,9
+Language and Linguistics,1947,3058,10
+General Medicine,1948,31774,1
+History,1948,5911,2
+General Engineering,1948,4945,3
+Multidisciplinary,1948,4633,4
+General Earth and Planetary Sciences,1948,4621,5
+General Environmental Science,1948,4291,6
+Literature and Literary Theory,1948,3912,7
+Biochemistry,1948,3744,8
+Education,1948,3587,9
+Sociology and Political Science,1948,3292,10
+General Medicine,1949,34969,1
+History,1949,6208,2
+General Engineering,1949,5255,3
+Multidisciplinary,1949,4690,4
+General Earth and Planetary Sciences,1949,4395,5
+General Environmental Science,1949,4195,6
+Literature and Literary Theory,1949,4066,7
+Biochemistry,1949,3972,8
+Sociology and Political Science,1949,3694,9
+Education,1949,3678,10
+General Medicine,1950,37896,1
+History,1950,6664,2
+General Engineering,1950,5411,3
+Biochemistry,1950,5017,4
+Multidisciplinary,1950,4887,5
+General Earth and Planetary Sciences,1950,4787,6
+General Environmental Science,1950,4609,7
+General Chemistry,1950,4506,8
+Literature and Literary Theory,1950,4202,9
+Sociology and Political Science,1950,3950,10
+General Medicine,1952,42260,1
+History,1952,6975,2
+Biochemistry,1952,6790,3
+General Engineering,1952,6114,4
+General Chemistry,1952,5149,5
+Multidisciplinary,1952,5140,6
+General Earth and Planetary Sciences,1952,4790,7
+General Environmental Science,1952,4536,8
+Literature and Literary Theory,1952,4418,9
+Sociology and Political Science,1952,4155,10
+General Medicine,1956,45264,1
+History,1956,8473,2
+General Engineering,1956,8132,3
+Multidisciplinary,1956,6239,4
+General Chemistry,1956,5771,5
+General Earth and Planetary Sciences,1956,5715,6
+Biochemistry,1956,5519,7
+General Environmental Science,1956,5414,8
+Literature and Literary Theory,1956,5071,9
+Analytical Chemistry,1956,5026,10
+General Medicine,1957,48434,1
+History,1957,8951,2
+General Engineering,1957,8448,3
+Multidisciplinary,1957,6642,4
+Biochemistry,1957,6172,5
+General Chemistry,1957,5775,6
+General Earth and Planetary Sciences,1957,5705,7
+Analytical Chemistry,1957,5446,8
+General Environmental Science,1957,5431,9
+General Physics and Astronomy,1957,4921,10
+General Medicine,1958,49007,1
+History,1958,9272,2
+General Engineering,1958,8939,3
+Multidisciplinary,1958,7487,4
+General Chemistry,1958,7104,5
+Biochemistry,1958,6857,6
+General Earth and Planetary Sciences,1958,6403,7
+Analytical Chemistry,1958,6377,8
+General Environmental Science,1958,6126,9
+General Physics and Astronomy,1958,5311,10
+General Medicine,1960,56391,1
+History,1960,10006,2
+General Engineering,1960,9964,3
+Multidisciplinary,1960,8426,4
+Biochemistry,1960,8312,5
+Analytical Chemistry,1960,7845,6
+General Chemistry,1960,7744,7
+General Earth and Planetary Sciences,1960,7071,8
+General Environmental Science,1960,6708,9
+General Physics and Astronomy,1960,6230,10
+General Medicine,1961,58644,1
+General Engineering,1961,10369,2
+History,1961,10036,3
+Multidisciplinary,1961,8322,4
+General Chemistry,1961,7721,5
+Biochemistry,1961,7567,6
+General Environmental Science,1961,7436,7
+General Earth and Planetary Sciences,1961,7398,8
+General Physics and Astronomy,1961,6866,9
+Analytical Chemistry,1961,6517,10
+General Medicine,1962,59715,1
+General Engineering,1962,10827,2
+History,1962,10182,3
+Multidisciplinary,1962,8932,4
+General Chemistry,1962,8509,5
+General Physics and Astronomy,1962,7881,6
+General Earth and Planetary Sciences,1962,7848,7
+General Environmental Science,1962,7766,8
+Biochemistry,1962,7657,9
+Analytical Chemistry,1962,7191,10
+General Medicine,1964,66138,1
+General Engineering,1964,14775,2
+History,1964,11506,3
+Multidisciplinary,1964,10586,4
+Biochemistry,1964,10437,5
+General Physics and Astronomy,1964,10359,6
+General Chemistry,1964,9882,7
+General Earth and Planetary Sciences,1964,8708,8
+General Environmental Science,1964,8518,9
+Analytical Chemistry,1964,8407,10
+General Medicine,1966,70777,1
+General Engineering,1966,16824,2
+History,1966,13374,3
+General Chemistry,1966,13111,4
+General Physics and Astronomy,1966,12831,5
+Biochemistry,1966,12748,6
+Condensed Matter Physics,1966,10945,7
+Multidisciplinary,1966,10430,8
+General Earth and Planetary Sciences,1966,9177,9
+General Environmental Science,1966,8852,10
+General Medicine,1967,72104,1
+General Engineering,1967,17699,2
+General Chemistry,1967,15185,3
+History,1967,15136,4
+Biochemistry,1967,14009,5
+General Physics and Astronomy,1967,14001,6
+Condensed Matter Physics,1967,12068,7
+Multidisciplinary,1967,10181,8
+Analytical Chemistry,1967,9853,9
+Physical and Theoretical Chemistry,1967,9248,10
+General Medicine,1970,98974,1
+General Engineering,1970,21323,2
+History,1970,18018,3
+Biochemistry,1970,17898,4
+General Chemistry,1970,15925,5
+Condensed Matter Physics,1970,14106,6
+General Physics and Astronomy,1970,13397,7
+Education,1970,11042,8
+Organic Chemistry,1970,10716,9
+Physical and Theoretical Chemistry,1970,10618,10
+General Medicine,1972,99960,1
+Biochemistry,1972,22123,2
+General Engineering,1972,21692,3
+General Chemistry,1972,19199,4
+Condensed Matter Physics,1972,18803,5
+History,1972,17984,6
+General Physics and Astronomy,1972,14836,7
+Molecular Biology,1972,13074,8
+Education,1972,11466,9
+Sociology and Political Science,1972,10893,10
+General Medicine,1973,102837,1
+Biochemistry,1973,23937,2
+General Engineering,1973,21062,3
+General Chemistry,1973,18994,4
+Condensed Matter Physics,1973,18765,5
+History,1973,17021,6
+General Physics and Astronomy,1973,14807,7
+Molecular Biology,1973,13877,8
+Cell Biology,1973,11525,9
+Sociology and Political Science,1973,11446,10
+General Medicine,1974,101899,1
+Biochemistry,1974,25241,2
+General Engineering,1974,24708,3
+Condensed Matter Physics,1974,19037,4
+General Chemistry,1974,18262,5
+History,1974,17373,6
+General Physics and Astronomy,1974,14816,7
+Molecular Biology,1974,14638,8
+Sociology and Political Science,1974,11888,9
+Cell Biology,1974,11838,10
+General Medicine,1977,102279,1
+Biochemistry,1977,26688,2
+General Engineering,1977,24581,3
+History,1977,20504,4
+Condensed Matter Physics,1977,20244,5
+General Chemistry,1977,19292,6
+Molecular Biology,1977,16201,7
+General Physics and Astronomy,1977,15304,8
+Sociology and Political Science,1977,14166,9
+Physical and Theoretical Chemistry,1977,13107,10
+General Medicine,1978,105387,1
+Biochemistry,1978,28614,2
+General Engineering,1978,25850,3
+Condensed Matter Physics,1978,21776,4
+History,1978,20609,5
+General Chemistry,1978,19249,6
+Molecular Biology,1978,16565,7
+General Physics and Astronomy,1978,15974,8
+Sociology and Political Science,1978,14134,9
+Cell Biology,1978,13623,10
+General Medicine,1979,105414,1
+Biochemistry,1979,29076,2
+General Engineering,1979,26141,3
+Condensed Matter Physics,1979,21164,4
+History,1979,20952,5
+General Chemistry,1979,19435,6
+Molecular Biology,1979,17856,7
+General Physics and Astronomy,1979,16205,8
+Cell Biology,1979,14492,9
+Sociology and Political Science,1979,14086,10
+General Medicine,1980,109789,1
+Biochemistry,1980,30890,2
+General Engineering,1980,26881,3
+Condensed Matter Physics,1980,24083,4
+History,1980,21331,5
+General Chemistry,1980,19446,6
+Molecular Biology,1980,18179,7
+General Physics and Astronomy,1980,16375,8
+Cell Biology,1980,15425,9
+Sociology and Political Science,1980,15320,10
+General Medicine,1982,111769,1
+Biochemistry,1982,33187,2
+General Engineering,1982,29789,3
+Condensed Matter Physics,1982,24307,4
+General Chemistry,1982,21791,5
+History,1982,21395,6
+Molecular Biology,1982,20436,7
+General Physics and Astronomy,1982,17384,8
+Cell Biology,1982,16786,9
+Sociology and Political Science,1982,16687,10
+General Medicine,1984,118555,1
+Biochemistry,1984,35851,2
+General Engineering,1984,30838,3
+Condensed Matter Physics,1984,26977,4
+Molecular Biology,1984,22495,5
+History,1984,22491,6
+General Chemistry,1984,22025,7
+General Physics and Astronomy,1984,18274,8
+Cell Biology,1984,18208,9
+Sociology and Political Science,1984,17157,10
+General Medicine,1987,131308,1
+Biochemistry,1987,38953,2
+General Engineering,1987,32084,3
+Condensed Matter Physics,1987,31878,4
+Molecular Biology,1987,25613,5
+General Chemistry,1987,23901,6
+History,1987,23641,7
+General Physics and Astronomy,1987,20690,8
+Cell Biology,1987,20164,9
+Electrical and Electronic Engineering,1987,19040,10
+General Medicine,1990,146797,1
+Biochemistry,1990,44894,2
+Condensed Matter Physics,1990,40770,3
+Molecular Biology,1990,29986,4
+General Engineering,1990,29635,5
+History,1990,27042,6
+General Chemistry,1990,26162,7
+Cell Biology,1990,25504,8
+Pharmacology,1990,22492,9
+Electrical and Electronic Engineering,1990,21764,10
+General Medicine,1992,134857,1
+Biochemistry,1992,49925,2
+Condensed Matter Physics,1992,45706,3
+Molecular Biology,1992,35147,4
+History,1992,27989,5
+General Chemistry,1992,27915,6
+Cell Biology,1992,27835,7
+General Engineering,1992,27436,8
+Mechanical Engineering,1992,26161,9
+General Materials Science,1992,25920,10
+General Medicine,1993,137630,1
+Biochemistry,1993,51814,2
+Condensed Matter Physics,1993,48163,3
+Molecular Biology,1993,35031,4
+General Chemistry,1993,28993,5
+History,1993,28591,6
+Cell Biology,1993,28325,7
+General Engineering,1993,28301,8
+Electrical and Electronic Engineering,1993,28131,9
+Mechanical Engineering,1993,27619,10
+General Medicine,1994,138258,1
+Biochemistry,1994,51667,2
+Condensed Matter Physics,1994,49756,3
+Molecular Biology,1994,36912,4
+Electrical and Electronic Engineering,1994,32169,5
+History,1994,29689,6
+General Chemistry,1994,29421,7
+Cell Biology,1994,29280,8
+Mechanical Engineering,1994,27895,9
+Materials Chemistry,1994,26601,10
+General Medicine,1995,144341,1
+Biochemistry,1995,51977,2
+Condensed Matter Physics,1995,49450,3
+Molecular Biology,1995,35965,4
+Electrical and Electronic Engineering,1995,30629,5
+History,1995,30475,6
+Mechanical Engineering,1995,30201,7
+General Chemistry,1995,29977,8
+Cell Biology,1995,28438,9
+Materials Chemistry,1995,28043,10
+General Medicine,1996,150039,1
+Biochemistry,1996,53421,2
+Condensed Matter Physics,1996,51134,3
+Molecular Biology,1996,38562,4
+General Chemistry,1996,34110,5
+Mechanical Engineering,1996,31588,6
+History,1996,30905,7
+Electrical and Electronic Engineering,1996,30710,8
+Materials Chemistry,1996,30517,9
+General Physics and Astronomy,1996,29550,10
+General Medicine,1997,152858,1
+Condensed Matter Physics,1997,54230,2
+Biochemistry,1997,53548,3
+Molecular Biology,1997,38136,4
+Mechanical Engineering,1997,34422,5
+General Chemistry,1997,34386,6
+Electrical and Electronic Engineering,1997,34142,7
+Surgery,1997,33621,8
+Materials Chemistry,1997,31930,9
+History,1997,31527,10
+General Medicine,1999,155153,1
+Condensed Matter Physics,1999,56185,2
+Biochemistry,1999,54508,3
+Molecular Biology,1999,41342,4
+General Chemistry,1999,36191,5
+Electrical and Electronic Engineering,1999,35499,6
+Materials Chemistry,1999,32806,7
+Mechanical Engineering,1999,32743,8
+Surgery,1999,32713,9
+History,1999,31804,10
+General Medicine,2001,173807,1
+Condensed Matter Physics,2001,60618,2
+Biochemistry,2001,57709,3
+Molecular Biology,2001,45147,4
+General Chemistry,2001,41984,5
+Electrical and Electronic Engineering,2001,37407,6
+Mechanical Engineering,2001,36750,7
+Materials Chemistry,2001,36248,8
+Surgery,2001,35367,9
+General Materials Science,2001,34285,10
+General Medicine,2002,179969,1
+Biochemistry,2002,63840,2
+Condensed Matter Physics,2002,62901,3
+Molecular Biology,2002,48404,4
+General Chemistry,2002,45152,5
+Electrical and Electronic Engineering,2002,38864,6
+Mechanical Engineering,2002,38202,7
+General Materials Science,2002,37709,8
+Surgery,2002,35540,9
+Materials Chemistry,2002,35204,10
+General Medicine,2004,225034,1
+Condensed Matter Physics,2004,77949,2
+Biochemistry,2004,72932,3
+Molecular Biology,2004,55449,4
+General Chemistry,2004,50637,5
+Electrical and Electronic Engineering,2004,49221,6
+Mechanical Engineering,2004,44944,7
+Surgery,2004,44222,8
+Cell Biology,2004,43588,9
+Materials Chemistry,2004,43362,10
+General Medicine,2005,236179,1
+Condensed Matter Physics,2005,80400,2
+Biochemistry,2005,73555,3
+General Chemistry,2005,56349,4
+Molecular Biology,2005,53994,5
+Electrical and Electronic Engineering,2005,52877,6
+General Materials Science,2005,47360,7
+Mechanical Engineering,2005,46830,8
+Surgery,2005,46333,9
+Materials Chemistry,2005,44600,10
+General Medicine,2007,273860,1
+Condensed Matter Physics,2007,94315,2
+Biochemistry,2007,82891,3
+General Chemistry,2007,66640,4
+Molecular Biology,2007,65624,5
+Electrical and Electronic Engineering,2007,62861,6
+General Materials Science,2007,61893,7
+Mechanical Engineering,2007,54854,8
+Surgery,2007,52433,9
+Materials Chemistry,2007,48218,10
+General Medicine,2008,291357,1
+Condensed Matter Physics,2008,91562,2
+Biochemistry,2008,91054,3
+General Chemistry,2008,70427,4
+Molecular Biology,2008,70135,5
+Electrical and Electronic Engineering,2008,63060,6
+General Materials Science,2008,60367,7
+Surgery,2008,55510,8
+Mechanical Engineering,2008,53760,9
+Neurology (clinical),2008,50886,10
+General Medicine,2009,344278,1
+Condensed Matter Physics,2009,94502,2
+Biochemistry,2009,89087,3
+General Chemistry,2009,74337,4
+Molecular Biology,2009,69833,5
+Electrical and Electronic Engineering,2009,66662,6
+General Materials Science,2009,63057,7
+Surgery,2009,54931,8
+Mechanical Engineering,2009,54805,9
+Neurology (clinical),2009,50244,10
+General Medicine,2010,511329,1
+General Chemistry,2010,101906,2
+Condensed Matter Physics,2010,95140,3
+Biochemistry,2010,88432,4
+Electrical and Electronic Engineering,2010,71057,5
+Molecular Biology,2010,70366,6
+General Materials Science,2010,68889,7
+Surgery,2010,59432,8
+Mechanical Engineering,2010,58651,9
+Oncology,2010,55652,10
+General Medicine,2011,346663,1
+Condensed Matter Physics,2011,99595,2
+Biochemistry,2011,87935,3
+General Chemistry,2011,85527,4
+General Materials Science,2011,77167,5
+Electrical and Electronic Engineering,2011,76504,6
+Molecular Biology,2011,69576,7
+General Engineering,2011,67755,8
+Oncology,2011,63234,9
+Surgery,2011,62964,10
+General Medicine,2014,440681,1
+General Chemistry,2014,105305,2
+Condensed Matter Physics,2014,101925,3
+Biochemistry,2014,97332,4
+General Materials Science,2014,94337,5
+Electrical and Electronic Engineering,2014,93164,6
+Oncology,2014,76267,7
+Molecular Biology,2014,74372,8
+Mechanical Engineering,2014,72859,9
+Surgery,2014,71884,10
+General Medicine,2017,464384,1
+General Chemistry,2017,116642,2
+Electrical and Electronic Engineering,2017,111095,3
+General Materials Science,2017,108503,4
+Condensed Matter Physics,2017,103966,5
+Oncology,2017,98335,6
+Mechanical Engineering,2017,88041,7
+Biochemistry,2017,87506,8
+Surgery,2017,78900,9
+Multidisciplinary,2017,77145,10
+General Medicine,2019,562329,1
+General Materials Science,2019,144039,2
+Electrical and Electronic Engineering,2019,139673,3
+General Chemistry,2019,131728,4
+Condensed Matter Physics,2019,109774,5
+Biochemistry,2019,109013,6
+Computer Science Applications,2019,107619,7
+General Engineering,2019,100020,8
+Mechanical Engineering,2019,96566,9
+Oncology,2019,96544,10
+General Medicine,2022,741060,1
+Electrical and Electronic Engineering,2022,184510,2
+General Materials Science,2022,168197,3
+General Chemistry,2022,151645,4
+Computer Science Applications,2022,140667,5
+General Environmental Science,2022,130103,6
+General Earth and Planetary Sciences,2022,123651,7
+General Engineering,2022,120609,8
+Biochemistry,2022,120458,9
+Mechanical Engineering,2022,113884,10
+General Medicine,2023,193910,1
+Electrical and Electronic Engineering,2023,61525,2
+Industrial and Manufacturing Engineering,2023,57742,3
+General Materials Science,2023,50673,4
+General Chemistry,2023,48617,5
+History,2023,44362,6
+Polymers and Plastics,2023,43372,7
+Computer Science Applications,2023,42563,8
+Business and International Management,2023,40130,9
+Mechanical Engineering,2023,37531,10
+General Veterinary,2026,1,1
+General Medicine,2026,1,2
+General Veterinary,2027,1,1
+General Medicine,2028,2,1
+General Chemistry,2028,2,2
+General Environmental Science,2028,1,3
+General Earth and Planetary Sciences,2028,1,4
+Literature and Literary Theory,2031,23,1
+Cultural Studies,2031,23,2
+Language and Linguistics,2031,23,3
+Linguistics and Language,2031,23,4
+General Medicine,2031,11,5
+Computer Science Applications,2033,28,1
+Linguistics and Language,2033,22,2
+Language and Linguistics,2033,22,3
+General Arts and Humanities,2033,17,4
+General Medicine,2033,16,5
+History,2033,15,6
+General Social Sciences,2033,14,7
+Philosophy,2033,13,8
+Visual Arts and Performing Arts,2033,12,9
+Architecture,2033,12,10
+Immunology,2038,9,1
+Immunology and Allergy,2038,9,2
+Microbiology (medical),2038,9,3
+Urology,2038,3,4
+General Earth and Planetary Sciences,2055,1,1
+General Environmental Science,2055,1,2
+Applied Mathematics,2075,1,1
+General Engineering,2075,1,2
+General Medicine,2080,9,1
+History,2081,22,1
+Anthropology,2081,22,2
+Cultural Studies,2081,22,3
+General Medicine,2099,5,1
+General Medicine,2101,1,1
+Plant Science,2102,1,1
+"Ecology, Evolution, Behavior and Systematics",2102,1,2
+Algebra and Number Theory,2103,16,1
+"General Economics, Econometrics and Finance",2103,2,2
+General Environmental Science,2103,1,3
+General Immunology and Microbiology,2103,1,4
+Infectious Diseases,2103,1,5
+Microbiology (medical),2103,1,6
+Surgery,2103,1,7
+"Public Health, Environmental and Occupational Health",2103,1,8
+Epidemiology,2103,1,9
+General Earth and Planetary Sciences,2103,1,10
+General Medicine,2106,9,1
+Oncology,2106,1,2
+General Medicine,2107,1,1
+General Nursing,2109,6,1
+Infectious Diseases,2109,2,2
+Microbiology (medical),2109,2,3
+Epidemiology,2109,2,4
+General Medicine,2109,1,5
+Medicine (miscellaneous),2122,1,1
+Clinical Psychology,2122,1,2
+Psychiatry and Mental health,2122,1,3
+Family Practice,2203,20,1
+General Medicine,2203,20,2

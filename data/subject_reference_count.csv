@@ -1,0 +1,340 @@
+subject,ref_count
+General Medicine,146229457
+Biochemistry,96393998
+Molecular Biology,82421954
+General Chemistry,79228805
+Multidisciplinary,63727727
+Cell Biology,61543242
+Condensed Matter Physics,56245278
+General Physics and Astronomy,48959587
+General Materials Science,48264676
+Genetics,44800226
+Physical and Theoretical Chemistry,42321991
+Electrical and Electronic Engineering,41764824
+Materials Chemistry,38671814
+Mechanical Engineering,36958919
+Organic Chemistry,35515182
+"Ecology, Evolution, Behavior and Systematics",32818744
+Immunology,32458147
+"Electronic, Optical and Magnetic Materials",30298416
+Mechanics of Materials,29947882
+Catalysis,29730315
+Oncology,29324230
+"General Biochemistry, Genetics and Molecular Biology",28859116
+Neurology (clinical),28588372
+Cardiology and Cardiovascular Medicine,27910518
+Computer Science Applications,27511668
+General Neuroscience,27258534
+Physiology,27175907
+Surgery,26207176
+Pharmacology,25796526
+Cancer Research,25590036
+Psychiatry and Mental health,24466080
+General Chemical Engineering,23361864
+General Engineering,22713059
+Plant Science,22127757
+Immunology and Allergy,21934094
+Economics and Econometrics,21684821
+Biotechnology,21369823
+Infectious Diseases,21172023
+Space and Planetary Science,20962755
+Applied Mathematics,20675565
+"Surfaces, Coatings and Films",20656129
+Microbiology,20152103
+"Public Health, Environmental and Occupational Health",20112124
+Ecology,19876155
+Biophysics,19295522
+Analytical Chemistry,19122492
+Environmental Chemistry,18618978
+"Renewable Energy, Sustainability and the Environment",17889580
+"Atomic and Molecular Physics, and Optics",17849905
+Aquatic Science,16679751
+Food Science,16601369
+Bioengineering,16579133
+Sociology and Political Science,16519066
+"Radiology, Nuclear Medicine and imaging",16409924
+General Environmental Science,16310660
+Molecular Medicine,16158099
+"Endocrinology, Diabetes and Metabolism",15892591
+Education,15818919
+Inorganic Chemistry,15514126
+Drug Discovery,15499103
+Industrial and Manufacturing Engineering,15469293
+Colloid and Surface Chemistry,15140404
+Software,15129957
+Astronomy and Astrophysics,14779682
+Pollution,14490723
+Physiology (medical),14266216
+Endocrinology,14203198
+Water Science and Technology,14187962
+Geochemistry and Petrology,14148940
+Orthopedics and Sports Medicine,14138231
+Polymers and Plastics,13769928
+"Pediatrics, Perinatology and Child Health",13726681
+Geophysics,13707934
+Animal Science and Zoology,13661516
+Neurology,13313961
+Atmospheric Science,13227014
+Pharmacology (medical),12992021
+Strategy and Management,12902667
+General Earth and Planetary Sciences,12869178
+Nuclear and High Energy Physics,12820555
+Metals and Alloys,12683808
+Agronomy and Crop Science,12564448
+Ceramics and Composites,12411095
+Environmental Engineering,12384700
+Energy Engineering and Power Technology,11968774
+Developmental Biology,11955580
+Clinical Biochemistry,11913168
+Hematology,11821550
+Arts and Humanities (miscellaneous),11799722
+Biomedical Engineering,11682754
+Developmental and Educational Psychology,11649890
+Civil and Structural Engineering,11402559
+Soil Science,11263446
+General Agricultural and Biological Sciences,11109102
+Control and Systems Engineering,11086528
+Statistics and Probability,10912884
+Internal Medicine,10698087
+"Health, Toxicology and Mutagenesis",10486200
+Spectroscopy,10469275
+Cellular and Molecular Neuroscience,10430781
+Applied Microbiology and Biotechnology,10388430
+Biomaterials,10360634
+Pharmaceutical Science,10283452
+Gastroenterology,10029864
+Medicine (miscellaneous),9997739
+Oceanography,9991872
+Obstetrics and Gynecology,9903439
+General Psychology,9813471
+Microbiology (medical),9751093
+Earth-Surface Processes,9718779
+Pulmonary and Respiratory Medicine,9651000
+Electrochemistry,9548894
+Waste Management and Disposal,9489660
+Toxicology,9365925
+Business and International Management,9353316
+Artificial Intelligence,9286658
+Surfaces and Interfaces,9234904
+Modeling and Simulation,9226777
+Pathology and Forensic Medicine,9018174
+Structural Biology,8896819
+Genetics (clinical),8896212
+Geology,8869522
+Physics and Astronomy (miscellaneous),8847407
+"Geography, Planning and Development",8796569
+Instrumentation,8795925
+Virology,8764782
+Experimental and Cognitive Psychology,8688386
+Nutrition and Dietetics,8665865
+"Management, Monitoring, Policy and Law",8581453
+General Mathematics,8461855
+Earth and Planetary Sciences (miscellaneous),8404538
+Clinical Psychology,8387003
+Computational Mathematics,8295391
+Computational Theory and Mathematics,8257417
+General Immunology and Microbiology,7893354
+Social Psychology,7814239
+Cognitive Neuroscience,7726599
+Epidemiology,7543775
+Insect Science,7511842
+Forestry,7453947
+Finance,7426584
+Information Systems,7353898
+Applied Psychology,7201221
+Building and Construction,7115682
+Hepatology,7048138
+Computer Networks and Communications,6719281
+General Computer Science,6681462
+Fuel Technology,6584019
+Ophthalmology,6537647
+Management Science and Operations Research,6360551
+Parasitology,6332747
+Paleontology,6306677
+Critical Care and Intensive Care Medicine,6251269
+Dermatology,6192778
+Management of Technology and Innovation,6159317
+General Energy,5819941
+Behavioral Neuroscience,5717515
+Anesthesiology and Pain Medicine,5696039
+"Physical Therapy, Sports Therapy and Rehabilitation",5538007
+Marketing,5518420
+Otorhinolaryngology,5361257
+Linguistics and Language,5236013
+Urology,5163319
+Signal Processing,4866753
+Accounting,4791796
+Language and Linguistics,4784940
+"Statistics, Probability and Uncertainty",4762388
+General Veterinary,4752676
+Reproductive Medicine,4705310
+Process Chemistry and Technology,4700036
+"General Business, Management and Accounting",4698303
+Geriatrics and Gerontology,4660487
+Health (social science),4587837
+Health Policy,4583302
+Biological Psychiatry,4499783
+Rheumatology,4460426
+History and Philosophy of Science,4358897
+Biochemistry (medical),4254690
+Social Sciences (miscellaneous),4230526
+Theoretical Computer Science,4186190
+Law,4175353
+Organizational Behavior and Human Resource Management,4138659
+Nephrology,4133078
+History,4125623
+Nature and Landscape Conservation,4120602
+Hardware and Architecture,4119200
+Nuclear Energy and Engineering,4098634
+Computer Vision and Pattern Recognition,4080955
+Neuropsychology and Physiological Psychology,4068210
+Aerospace Engineering,4024717
+Geotechnical Engineering and Engineering Geology,3924435
+Global and Planetary Change,3842711
+General Dentistry,3828521
+Rehabilitation,3803337
+Sensory Systems,3785720
+Anthropology,3743313
+Development,3642823
+Radiation,3527359
+Anatomy,3495941
+Statistical and Nonlinear Physics,3481401
+Transplantation,3477578
+Acoustics and Ultrasonics,3457296
+Histology,3340649
+Political Science and International Relations,3326296
+Archeology,3304152
+Information Systems and Management,3236140
+"Safety, Risk, Reliability and Quality",3180669
+General Social Sciences,3176928
+Horticulture,3076624
+Library and Information Sciences,3044625
+Mathematical Physics,3029168
+Communication,3025783
+Fluid Flow and Transfer Processes,2983036
+Radiological and Ultrasound Technology,2953363
+Advanced and Specialized Nursing,2938695
+Analysis,2886267
+Computer Graphics and Computer-Aided Design,2846614
+Cultural Studies,2699232
+General Nursing,2679951
+Aging,2636106
+Numerical Analysis,2569736
+Human-Computer Interaction,2552793
+Ecological Modeling,2547584
+Developmental Neuroscience,2547506
+Philosophy,2427134
+Health Informatics,2259148
+Transportation,2195072
+Computational Mechanics,2052512
+Agricultural and Biological Sciences (miscellaneous),2005753
+Ocean Engineering,1993665
+Emergency Medicine,1979572
+Public Administration,1974347
+Oral Surgery,1967468
+"Tourism, Leisure and Hospitality Management",1953140
+Engineering (miscellaneous),1915708
+"General Pharmacology, Toxicology and Pharmaceutics",1894103
+Complementary and alternative medicine,1884011
+Management Information Systems,1857667
+Control and Optimization,1844586
+Urban Studies,1794294
+Filtration and Separation,1785093
+Computers in Earth Sciences,1733815
+Endocrine and Autonomic Systems,1727792
+Environmental Science (miscellaneous),1706052
+Materials Science (miscellaneous),1647280
+Automotive Engineering,1573465
+Algebra and Number Theory,1447270
+Gender Studies,1402079
+Speech and Hearing,1359286
+Chemistry (miscellaneous),1359209
+Demography,1351738
+Food Animals,1312854
+"General Economics, Econometrics and Finance",1270379
+Human Factors and Ergonomics,1181296
+Life-span and Life-course Studies,1180158
+Embryology,1108994
+General Decision Sciences,1098656
+"Business, Management and Accounting (miscellaneous)",1076740
+Discrete Mathematics and Combinatorics,1041538
+Gerontology,1033927
+Psychology (miscellaneous),1032109
+Periodontics,1004029
+Geometry and Topology,1001261
+Mathematics (miscellaneous),967308
+Media Technology,957246
+Stratigraphy,933190
+Economic Geology,899524
+Chemical Engineering (miscellaneous),879898
+Industrial relations,862188
+"Economics, Econometrics and Finance (miscellaneous)",860278
+Literature and Literary Theory,827909
+Neuroscience (miscellaneous),791263
+"Biochemistry, Genetics and Molecular Biology (miscellaneous)",781505
+Medical Laboratory Technology,726975
+Energy (miscellaneous),706557
+Safety Research,671084
+Visual Arts and Performing Arts,670436
+Logic,629598
+Health Information Management,608667
+Pshychiatric Mental Health,583902
+Religious studies,568181
+Small Animals,542604
+"Issues, ethics and legal aspects",503045
+Computer Science (miscellaneous),495001
+Leadership and Management,477773
+Orthodontics,443337
+Architecture,430855
+Veterinary (miscellaneous),429925
+Family Practice,422767
+Emergency Nursing,406292
+Equine,382704
+"Pharmacology, Toxicology and Pharmaceutics (miscellaneous)",376115
+General Arts and Humanities,369018
+General Health Professions,339684
+Maternity and Midwifery,312257
+Music,310016
+LPN and LVN,304535
+Pediatrics,276850
+Health Professions (miscellaneous),276080
+Community and Home Care,274876
+Oncology (nursing),266317
+Critical Care Nursing,247672
+Occupational Therapy,245313
+Optometry,243947
+Museology,214414
+Chiropractics,212714
+Nursing (miscellaneous),197503
+Pharmacy,189636
+Chemical Health and Safety,184691
+Immunology and Microbiology (miscellaneous),162476
+Conservation,157477
+Classics,141411
+Medical–Surgical Nursing,141139
+Fundamentals and skills,140737
+Complementary and Manual Therapy,132975
+Dentistry (miscellaneous),104735
+Assessment and Diagnosis,86803
+Care Planning,84699
+Research and Theory,80925
+Review and Exam Preparation,63283
+Pharmacology (nursing),62159
+Medical Assisting and Transcription,42288
+Medical Terminology,40362
+Decision Sciences (miscellaneous),34355
+Drug Guides,23929
+Podiatry,23734
+Reviews and References (medical),13328
+Emergency Medical Services,6294
+Nurse Assisting,5321
+"Pediatrics, Perinatology, and Child Health",4601
+Respiratory Care,1148
+Clinical Neurology,514
+Genetics(clinical),244
+Obstetrics and Gynaecology,212
+Critical Care,196
+Radiology Nuclear Medicine and imaging,105
+Dental Hygiene,25
+Dental Assisting,25
+Emergency,2

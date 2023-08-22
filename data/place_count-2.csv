@@ -1,0 +1,1296 @@
+place,count,Country
+"East Lansing, Michigan",95719,US
+São Paulo,72500,BR
+Campinas,56738,BR
+"Cambridge, MA",33767,US
+"Pokfulam Road, Hong Kong SAR",27725,HK
+Ames,23702,US
+"London, UK",23153,GB
+"Rio de Janeiro, Brazil",21203,BR
+"Gaithersburg, MD",19376,US
+"Argonne, IL (United States)",19269,US
+"Oak Ridge, TN (United States)",18901,US
+"Ann Arbor, Michigan",17901,US
+"Albuquerque, NM, and Livermore, CA (United States)",15834,US
+"Ottawa, Ontario",15339,US
+"Pittsburgh, PA, and Morgantown, WV",14690,US
+"Richland, WA",14524,US
+"Oak Ridge, TN",13747,US
+"Livermore, CA (United States)",13327,US
+São Carlos,13233,US
+"Richland, WA (United States)",12983,BR
+"Los Alamos, NM (United States)",12639,US
+U.S. Department of Energy,12439,CA
+"Clear Water Bay, Kowloon, Hong Kong",11526,US
+Ribeirão Preto,11285,US
+U.S. Atomic Energy Commission,11277,US
+Piracicaba,10423,BR
+"Golden, CO (United States)",9597,US
+"Argonne, IL",9068,BR
+"Portland, OR",7820,US
+"San Jose, CA, USA",6854,US
+"Upton, NY (United States)",5660,ES
+"Washington, DC",5306,US
+"Batavia, IL (United States)",5252,US
+"Pittsburgh, PA, and Morgantown, WV (United States)",5149,US
+"Aiken, SC (United States)",5096,US
+"Los Alamos, NM",5021,US
+"Menlo Park, CA (United States)",4924,US
+Valencia (Spain),4866,US
+"Berkeley, CA (United States)",4742,US
+"Charlottesville, VA",4578,US
+"Idaho Falls, ID (United States)",4525,US
+"Aiken, SC",4167,US
+"Champaign, Illinois",3680,US
+"Kingston, RI",3575,NL
+"Idaho Falls, ID",3268,ZA
+"Berkeley, CA",3235,US
+"Hays, KS",3143,US
+"Livermore, CA",3135,US
+"Golden, CO",2884,US
+"Enschede, The Netherlands",2878,US
+"Durban, South Africa",2826,US
+"Iowa City, IA, United States",2739,BR
+"Middletown, CT",2726,US
+"Houghton, Michigan",2661,US
+"Durham, NC",2605,LB
+"Washington, D.C.",2530,US
+"Upton, NY",2496,US
+Bauru,2440,BR
+"Oakland, CA",2329,US
+"San Luis Obispo, California",2247,CO
+"Bogotá, Colombia",2025,HU
+"Szeged, Hungary",2013,US
+"Princeton, NJ (United States)",1859,BR
+Brasília,1772,PH
+"Manila, Philippines",1654,US
+"Oak Ridge, TN USA",1652,US
+"Las Vegas, Nevada",1485,LB
+Lebanon,1414,US
+"West Conshohocken, PA",1364,US
+"Princeton, NJ",1321,BR
+"Boston, Massachusetts",1289,ES
+Pirassununga,1251,US
+"St. Louis, MO, USA",1240,RS
+"Ames, IA (United States)",1233,BR
+"Batavia, IL",1191,US
+Perú,1082,PE
+Uberlândia,1072,BR
+"Oakland, CA (United States)",1004,US
+"Albuquerque, NM, and Livermore, CA",997,US
+"Lalitpur, Nepal",985,NP
+"Cleveland, OH",970,US
+Lima,969,PE
+"Portland, OR (United States)",966,US
+Bogotá,953,CO
+Juiz de Fora,922,BR
+"Las Vegas, NV",916,US
+Salamanca,892,ES
+"Philadelphia, PA",877,US
+"La Laguna, Tenerife",875,ES
+"Washington, DC (United States)",857,US
+Budapest,813,HU
+"Albuquerque, NM",808,US
+"Morgantown, WV",807,US
+Viçosa - MG,756,BR
+Castelló de la Plana,738,ES
+"San Diego, CA (United States)",729,US
+Belgrade,718,RS
+Lorena,675,BR
+"Menlo Park, CA",670,US
+"London, United Kingdom",669,GB
+Swansea,623,GB
+"Washington, D. C.",621,US
+"Albuquerque, NM (United States)",557,US
+"Vienna, Austria",528,AT
+"Niskayuna, NY (United States)",527,US
+"Philadelphia, Pennsylvania, United States",524,US
+"Vientiane, Lao PDR",520,US
+"Newport News, VA (United States)",488,LA
+"Berrien Springs, Michigan",484,US
+"San Rafael, California",480,US
+"Middletown, CT, USA",465,US
+"Redlands, CA",450,US
+"Mosquera, (Colombia)",438,CO
+"E-Scholarship Repository, Berkeley, CA (United States)",421,US
+"Boise, ID",419,US
+Helsinki,417,US
+"Memphis, TN",415,US
+"Las Vegas, NV (United States)",405,US
+US,403,US
+"Tulsa, OK",401,US
+"Mendoza, Argentina",397,AR
+"Fort Collins, Colorado",394,US
+Lithuania,372,LT
+"Orange, CA",358,US
+"Tampa, FL",356,US
+"Carlsbad, NM (United States)",348,US
+Ciudad de México,345,MX
+"Linköping, Sweden",331,SE
+Scotland,328,GB
+Brussel,319,BE
+"Niskayuna, NY",313,US
+"Lima, Perú",303,PE
+"Geneva, Switzerland",294,CH
+"119017, Russia, Moscow, Staromonetnyy lane 29",291,RU
+"""Gaithersburg, MD",282,US
+"Wellington, NZ",281,NZ
+"Oak Ridge National Laboratory (ORNL), Oak Ridge, TN (US)",275,US
+"Oxford, UK",260,GB
+"Research Triangle Park, NC",254,US
+LLC (United States),249,US
+Washington D.C.,248,AR
+"Ciudad Aut�noma de Buenos aires, Argentina",245,SE
+Stockholm,237,GB
+"Oxford, United Kingdom",237,US
+"West Lafayette, IN",237,US
+"Atlanta, Georgia",236,DE
+Dresden,233,IE
+"Dublin, Ireland",230,US
+LLC,226,HK
+Hong Kong,221,US
+Memphis,219,LK
+Nugegoda,217,ZA
+"Kansas City, MO",211,US
+"West Mifflin, PA (United States)",206,US
+Washington,185,US
+Office of National Environmental Policy Act,184,US
+"Colombo, Sri Lanka",180,US
+Johannesburg,177,SA
+"Riyadh, Saudi Arabia",174,US
+"Bowling Green, OH",173,US
+"Jakarta, Indonesia",162,US
+Bamberg,162,US
+"Botucatu, SP",162,ES
+UBERLÂNDIA,161,US
+"Makhanda, South Africa",158,AR
+"Miamisburg, OH",156,US
+Office of National Environmental Policy Act (United States),155,US
+"Greensboro, NC",154,ES
+NV (United States),154,US
+"Amarillo, TX",154,US
+"Ciudad Autónoma de Buenos aires, Argentina",152,US
+"Nevada University, Reno, NV (United States)",148,UK
+Pamplona,139,NZ
+"Boston, MA",137,US
+"San Diego, CA",137,AU
+"Ames, IA",132,IN
+"Moscow, Russia",131,US
+USA,130,LV
+"1752 N Street, N.W. Washington, D.C. 20036",129,US
+"Cheltenham, UK",129,RS
+New Zealand,128,US
+Rantoul,128,US
+Canberra,127,ES
+Bangalore,124,US
+"Kansas City, MO (United States)",123,HR
+Rīga,122,US
+"FORT LEAVENWORTH, KS",119,RS
+Novi Sad,118,IE
+"Las Vegas, Nevada (United States)",117,US
+Málaga (Spain),116,ES
+"111 TW Alexander Dr, Durham, NC 27709",111,US
+"ABERDEEN PROVING GROUND, MD",110,US
+"Raleigh, North Carolina, United States",109,US
+Nairobi,109,KE
+"Zagreb, Croatia",106,HR
+"Miamisburg, OH (United States)",105,US
+Kragujevac,104,RS
+Trinity College Dublin,104,IE
+"Latvia, Jelgava",102,LV
+"Carlsbad, NM",101,US
+Londrina/PR,101,BR
+"SEATTLE, WA",101,US
+"Claremont, CA",100,BR
+"Bogotá, DC",100,SE
+"NE-75, Orbital Fairchild",100,US
+"Blacksburg, VA",100,CO
+"Virginia State University, VA",99,US
+Geneva,98,CH
+"Teddington, UK",96,GB
+"Araraquara, SP",95,BR
+"São José do Rio Preto, SP",94,BR
+Brussels,88,BE
+"West Mifflin, PA",87,US
+Inc.,86,US
+"Berrien Springs, Mich.",86,CH
+"Neuchâtel, Switzerland",84,LK
+නුගේගොඩ,81,CH
+"Neuchâtel, Switzerland.",81,US
+"Newport News, VA",76,AU
+"Melbourne, Australia",75,TH
+"Bangkok, Thailand",75,BR
+Rio de Janeiro,74,CO
+"Mosquera, Cundinamarca",74,US
+UPenn,70,US
+"Mercury, NV",63,US
+New York,62,MX
+"Grand Junction, CO (United States)",62,LV
+United States,61,ES
+"Av. San Rafael Atlixco 186, Leyes de Reforma 1ra Secc, Iztapalapa, 09340 Ciudad de México, CDMX",61,US
+"Latvia, Riga, Azenes iela 12",61,NO
+Madrid,57,BR
+Safety and Health (EH) (United States),56,US
+Stavanger,55,US
+"Rio Claro, SP",55,US
+"San Rafael, CA",55,ID
+"Irvine, CA",55,US
+"CARLISLE BARRACKS, PA",54,DE
+"Padang, Indonesia",54,LV
+"MAXWELL AFB, AL",54,CL
+Bonn,52,US
+Riga,52,US
+"Santiago, Chile",51,US
+"Bozeman, MT",51,US
+"WRIGHT-PATTERSON AFB, OH",51,CA
+"Morgantown, WV (United States)",50,US
+"Atlanta, GA",50,AU
+"Winnipeg, Manitoba, Canada",49,CA
+Singapore,49,US
+Ouro Preto-MG,47,UK
+"Amarillo, TX (United States)",47,US
+Bengaluru,46,DK
+London,46,CH
+"Houston, Texas",46,US
+"Marília, SP",46,US
+"Vilnius, Lithuania",45,US
+Delft,45,US
+"Iraq, Sulaimani",44,US
+West Lafayette,44,BR
+"Nevada University, Reno, NV",44,US
+"Edmonton, Alberta",43,FR
+"ADELPHI, MD",43,ES
+Oxford,43,AT
+"Bauru, SP",42,US
+İstanbul,42,US
+"New York, NY (United States)",42,US
+Copenhagen,42,US
+"Bern, Switzerland",41,US
+"Canoga Park, CA (United States)",41,US
+Science and Technology (NE) (United States),41,US
+"Marshfield, WI",40,US
+Ouro Preto - MG,39,US
+Castellò de la Plana,39,US
+"Providence, RI",39,SE
+"Melbourne, Victoria",39,US
+"Vienna,AT",39,US
+"Grand Junction, CO",38,US
+Boston MA,38,US
+Science and Technology (NE),38,IE
+Glasgow,38,US
+Online,35,US
+"Santa Rosa, CA",35,FR
+"Presidente Prudente, SP",35,US
+"La Laguna (Tenerife, Canary Islands)",34,US
+"Broomfield, Colorado",34,US
+"New York, NY",34,US
+"West Lafayette, Indiana",34,BR
+Dublin,32,US
+"West Valley, NY",32,FR
+"Portland, OR.",32,US
+"Columbia, MD",32,US
+"EDWARDS AFB, CA",32,US
+Belém,31,CA
+"West Valley, NY (United States)",31,US
+"Toulouse, France",30,FR
+Castelló de la Plan,30,ES
+Vienna,30,AT
+"Largo, FL",30,US
+"Piketon, OH",30,US
+Ottawa,29,CA
+Zrenjanin,29,RS
+"Malmö, Sweden",28,SE
+"Kiel, Germany",28,DE
+Sumé - Paraíba - Brasil,28,BR
+"Camberwell, Victoria",28,AU
+"Alexandria, VA",28,US
+"Pittsburgh, PA (United States)",27,US
+"Split, Croatia",26,HR
+Tarragona,26,ES
+Lleida,26,ES
+"Bogor, Indonesia",26,ID
+"Health, Safety and Security (AU)",26,AU
+Aalborg,25,DK
+Los Angeles,24,US
+"Seattle, WA",24,US
+Oslo,24,NO
+United Kingdom,24,GB
+Paris,24,FR
+"Baltimore, MD",24,US
+Munich,24,DE
+Lisbon,23,PT
+"Mérida, Yucatán, México",23,MX
+"Boulder, CO",23,US
+Brooklyn,22,US
+International,22,US
+Castellón de la Plana,22,ES
+"Guaratinguetá, SP",22,BR
+Chile,22,CL
+"Hyattsville, MD",22,US
+"Monterey, CA",22,US
+"Brisbane, Australia",21,AU
+Malmö,21,SE
+"Araçatuba, SP",21,BR
+"Bonn, Germany",21,DE
+"Lima, Peru",21,PE
+Rio Paranaíba - MG,20,BR
+"Nairobi, Kenya",20,KE
+Melbourne,20,AU
+Jataí,20,BR
+Beirut,20,LB
+"Kalamazoo, MI",19,US
+Ribeirão Preto - SP,19,BR
+"Athens, Greece",19,GR
+OK,19,US
+Castelló,19,ES
+"Jelgava, Latvia",18,LV
+"Kathmandu, Nepal",18,NP
+Portland OR,18,US
+"Dallas, Texas",18,US
+"San Francisco, CA",18,US
+FFLCH-USP,18,US
+"WASHINGTON, DC",18,BR
+Barcelona,18,US
+"Corvallis, OR",17,US
+"Raleigh, NC",17,US
+"Chicago, IL",17,ES
+Puerto Rico,17,LV
+"Casper, WY",17,US
+Turkey,16,US
+"ROME, NY",16,US
+Nis,16,US
+MADRID,16,US
+"Alexandria,  VA",16,TR
+Jeddah,16,US
+Coventry,15,RS
+"Latvia, Riga",15,ES
+"Hamilton, Canada",15,US
+"Cambridge, Massachusetts",15,US
+Pristina,15,SA
+ACT,14,GB
+Claremont,14,LV
+Arusha,14,CA
+Denmark,14,US
+Brighton,14,US
+"Bern, Suisse",14,TZ
+La Laguna,14,DK
+"Latvia, Riga, Kipsalas iela 6B",14,GB
+"Atlanta, GA (United States)",14,CH
+"Morgantown, WV, and Pittsburgh, PA (United States)",13,ES
+"TEMPE, AZ",13,LV
+"Boise, Idaho, USA",13,US
+29071. Málaga (Spain),13,US
+"Bern, Schweiz",13,AZ
+"Guelph, Ontario, Canada",13,US
+"São José dos Campos, SP",13,US
+"Paducah, KY",13,US
+"La Jolla, CA",13,MX
+Mexico,12,AU
+Sheffield,12,US
+"WHITE SANDS MISSILE RANGE, NM",12,US
+"New York, USA",12,MX
+Philadelphia,12,AU
+Bergen,12,US
+Cairo,12,ZA
+Tenerife. España,12,US
+United States of America,12,AU
+Riyadh,12,GB
+www.iadb.org,12,DE
+Imperial College London,12,BR
+Washington DC,12,NZ
+"Paducah, KY (United States)",12,US
+"CHARLOTTSEVILLE, VA",12,US
+"LOS ANGELES AFB, CA",12,US
+México,11,US
+Carlton Vic,11,MX
+"Madrid, Spain",11,US
+"Campina Grande, Paraíba, Brasil",11,US
+Athens,11,US
+"Nashville, TN",11,US
+"Chapel Hill, NC",11,US
+Sulaimani,10,US
+Peru,10,US
+"Dallas, TX",10,US
+"DETROIT, MI",10,ID
+"Padang, Sumatera Barat",10,LV
+"Latvia, Riga, 12 k-1 Azenes Street",10,US
+LOS ANGELES,10,ZA
+Makhanda,10,US
+"Fairfax, VA",10,AU
+"Queensland, Australia",10,GB
+"Swansea, U.K.",10,DE
+Berlin,10,BR
+Belém-PA,10,NZ
+Wellington,10,US
+"Miami, FL",10,US
+"Stennis Space Center, MS",10,IQ
+OK (United States),10,ZA
+"Sulaimani, Iraq",10,CH
+Pretoria,9,HT
+Lausanne,9,BR
+"Port-au-Prince, Haiti",9,US
+Florestal - MG,9,LV
+"Los Angeles, CA",9,US
+"Latvia, Riga, Setas iela 1",9,US
+"PICATINNY ARSENAL, NJ",9,US
+"Vicksburg, MS",9,GE
+"Tbilisi, Georgia",9,US
+"NORFOLK, VA",9,US
+Ames (Iowa),9,IT
+"Napoli, Italia",9,GB
+Dundee,9,EG
+Switzerland,9,US
+Egypt,9,US
+"Pittsburgh, PA",9,CA
+South Africa,9,JP
+Zurich,8,IT
+"Lebedevka, Vyborg District, Leningrad Region 188836, Russia",8,AU
+Málaga - 29071 (Spain),8,US
+"Houghton, MI",8,BR
+Belgium,8,MX
+"Vancouver, Canada",8,US
+"Tokyo, Japan",8,US
+Frascati,8,US
+Glebe NSW Australia,8,DE
+"Broomfield, CO, US",8,NZ
+SP,8,IL
+"Jaboticabal, SP",8,GB;SE;NL
+"Jiutepec, Morelos México",8,EG
+Boston,8,US
+Castellón,8,US
+"Mossoró, Rio Grande do Norte, Brasil",8,AU
+"Tulsa, OK (United States)",8,BR
+"Canoga Park, CA",8,ES
+"Albany, OR",8,ES
+Portland,7,SE
+"WINSTON-SALEM, NC",7,ES
+Germany,7,US
+"Hamilton, New Zealand",7,GB
+Jerusalem,7,US
+"Oxford, UK; Uppsala, Sweden; Wageningen, Netherlands",7,US
+"Cairo, Egypt",7,US
+"Cold Spring Harbor, NY",7,LV
+"Narrangansett, RI",7,US
+Sydney,7,US
+Sumé - Paraíba - Brazil,7,MX
+Spain,7,US
+Sevilla,7,US
+Växjö,7,US
+Pazo de Raxoi. Praza do Obradoiro. Santiago de Compostela,7,DE
+"Lynnfield, MA",7,US
+Cheltenham,7,US
+"Northbrook, IL",7,MX
+"Ann Arbor, MI",7,US
+"Columbus, OH",7,BR
+"Latvia, Riga, Kipsalas iela 6",7,US
+"WARREN, MI",7,US
+"ARLINGTON, VA",6,US
+CDMX,6,LV
+"Cincinnati, OH",6,US
+"Rio de Janeiro, Rio de Janeiro",6,US
+"Corvallis, Oregon",6,MX
+"New Brunswick, NJ",6,US
+"Ottawa, Ontario, Canada",6,CA
+"Latvia, Riga, Lauvas 8",6,LV
+Sarajevo,6,BA
+"REDSTONE ARSENAL, AL",6,US
+ירושלים,6,IL
+Kiel,6,DE
+"Kuala Lumpur, Malaysia",6,MY
+"Woods Hole, MA",6,US
+Uppsala,6,AU
+"Canberra, Australia",6,US
+Montana,6,LV
+"Latvia, Riga, 6B Kipsalas Street",6,US
+"Clemson, SC",6,MX
+MEXICO,6,AU
+"Camberwell, Australia",6,US
+"Saint Petersburg, FL",6,BR
+São José dos Campos,6,RU
+Moscow,6,US
+"TUSCON, AZ",6,CO
+"Cartagena, Colombia",5,US
+"Houston, TX",5,US
+"KIRTLAND AFB, NM",5,US
+Kalmar,5,SE
+Research Triangle Park,5,US
+New Delhi,5,IN
+"San Andrés de Tumaco, Nariño",5,CO
+"BUKAVU, RDC",5,CD
+"Don Frana Bulića 4, 20 000 Dubrovnik, Croatia",5,HR
+"Málaga, 29071 (Spain)",5,ES
+"EGLIN AFB, FL",5,US
+"MONTEREY, CA",5,US
+"FORT RUCKER, AL",5,US
+"Latvia, Riga, Paula Valdena iela 3",5,LV
+Teddington,5,GB
+"Washigton, D.C.",5,US
+NY,5,US
+"VICTORIA, BC",5,CA
+"ORLANDO, FL",5,US
+Ni?,5,US
+Latvia,5,SE
+"NATICK, MA",5,NL
+"Paris, France",5,US
+Cartagena de Indias D.T. y C.,5,US
+Wiesbaden,5,US
+"San Jose, CA",5,LV
+Enschede,5,US
+"Medford, MA",5,US
+"Dania Beach, FL",5,US
+"Broomfield, CO",5,LV
+"Dundee, Scotland, United Kingdom",5,GB
+"Stanford, CA",5,US
+"FORT SAM HOUSTON, TX",5,US
+"PULLMAN, WA",5,FR
+201 Stephenson Parkway Suite 2100 Norman OK 73019,5,CO
+"Madison, WI",5,DE
+"Fort Myers, Florida",5,US
+San Rafael,5,NL
+Atlanta GA,5,US
+Umeå,5,US
+"Jyväskylä, Finland",5,US
+"Pasto, Colombia",5,US
+"Latvia, Riga, Paula Valdena iela 3/7",5,US
+Grahamstown,5,ES
+Broomfield,5,US
+"FORT BELVOIR, VA",5,SE
+"Arlington, VA",5,FI
+"Manila, Phlippines",4,CO
+"Borok, Russia",4,LV
+​Bengaluru,4,ZA
+"Erbil, Iraq",4,US
+"Stockholm, Sweden",4,DE
+Kobe,4,US
+Santiago,4,US
+Jakarta,4,PH
+istanbul,4,RU
+"Largo, FL (United States)",4,IN
+"New Haven, CT",4,IQ
+"Yopal, Casanare",4,SE
+"Piketon, OH (United States)",4,JP
+Raleigh,4,CL
+"Kigali, Rwanda",4,ID
+"Fribourg, Switzerland",4,TR
+"Swansea, UK",4,US
+"Iowa City, Iowa",4,US
+"Rīga, Latvia",4,CO
+"Swansea, Wales, UK",4,US
+Valencia,4,US
+"Giza, Egypt",4,RW
+"Bozeman, MT USA",4,CH
+Split,4,UK
+"Viçosa, Minas Gerais, Brasil",4,US
+Belem,4,US
+"Heiss Island, Russia",4,LV
+Washington D. C.,4,UK
+"Latvia, Riga, 3/7 Paula Valdena Street",4,ES
+Warszawa,4,EG
+"Fort Collins, CO",4,US
+"Kent, Ohio",4,US
+Banco de la República de Colombia,4,HR
+"Washington, D.C",4,US
+Kraljevo,4,CA
+"Dubrovnik, Croatia",4,XK
+MO (United States),4,UK
+"London, Ontario",4,US
+"Pristina, Kosovo",4,US
+"York, UK",4,PL
+"Salt Lake City, UT",4,US
+"Rochester, NY",4,US
+"Kansas City, KS",4,CA
+"Chicago, Ill",4,US
+"Denver, CO",4,
+"FAIRBANKS, AK",4,
+"BLACKSBURG, VA",4,
+INDIA,3,
+"OMAHA, NE",3,
+"OFFUTT AFB, NE",3,
+National Center for Health Statistics,3,
+Leiden,3,
+กรุงเทพฯ,3,
+WASHINGTON,3,
+Kinshasa/RDC,3,
+"Bridgewater, Massachusetts",3,
+Braga,3,
+"Aurora, CO",3,
+Berrien Springs,3,
+Washintgon D.C.,3,
+"Bristol, UK",3,
+"EL SEGUNDO, CA",3,
+"ALBUQUERQUE, NM",3,
+Cardiff,3,
+"Bowling Green,  OH",3,
+Office of Epidemiologic Studies (United States),3,
+"Hanover, NH",3,
+"Cambridge, MD",3,
+"Minneapolis, Minnesota, USA",3,
+"Santiago,Chile",3,
+"Tallahassee, FL",3,
+"KIDLINGTON, Oxford",3,
+"Austin, TX",3,
+"Dundee, United Kingdom",3,
+"Columbia, SC",3,
+"Santa Rosa, CA, USA",3,
+"Gainesville, FL",3,
+UVM,3,
+"VICKSBURG, MS",3,
+Edinburgh,3,
+"Hershey, PA",3,
+Safety and Health (EH),3,
+"Minneapolis, MN",3,
+"Moody AFB, GA",3,
+"Swansea, Wales",3,
+"Tallinn, Estonia",3,
+Leicester,3,
+Zagreb,3,
+Montreal,3,
+India,3,
+Fort Collins,3,
+York,3,
+"Casper, WY (United States)",3,
+"Miami, Fl",3,
+"Reno, NV",3,
+"Hoboken, NJ",3,
+Ouro Pret-MG,3,
+"Budapest, Hungary",3,
+"Boston,MA",3,
+"FAIRBORN, OH",3,
+"SILVER SPRING, MD",3,
+"Medellín, Colombia",3,
+University of Dhaka,3,
+Australia,3,
+Baltimore,3,
+"Qingdao, China",3,
+"Limerick, Ireland",3,
+"Rochester, Kent",3,
+Aberdeen,3,
+"Winston-Salem, NC",3,
+"Ithaca, NY",3,
+"Coral Gables, Florida",3,
+Amsterdam,3,
+"Indianapolis, IN",3,
+"Kunming, China",3,
+"Tinker AFB, OK",3,
+"State College, PA",3,
+OH (United States),3,
+"Tuscaloosa, AL",3,
+http://www.iadb.org,3,
+"Arvada, Colorado",3,
+"Uppsala, Sweden",2,
+"Latvia, Riga, Paula Valdena ielā 1",2,
+"Sailo Teacher Colony, Rahama, Jagatsinghpur, Pin-754140",2,
+Seville,2,
+"Tainan 70101, Taiwan, R.O.C.",2,
+Atlanta,2,
+Antwerp,2,
+"Klimovskaya, Konosha District, Arkhangelsk Region 164034, Russia",2,
+"Research Triangle Institute, NC",2,
+"Boulder, Colorado USA",2,
+"Aberdeen Proving Ground, MD",2,
+Chemnitz,2,
+Mexico City,2,
+"Russian Federation, Moscow",2,
+Parkville,2,
+"Mercury, NV (United States)",2,
+"กรุงเทพฯ, ไทย",2,
+Stockhom,2,
+"Fayetteville, AR",2,
+Fort Myers,2,
+"Russia, Republic of Tatarstan, Naberezhnye Chelny",2,
+"Cali, Colombia",2,
+"Wilmington, DE",2,
+MO,2,
+Bristol,2,
+Colombia,2,
+Villavicencio,2,
+Bogota,2,
+"Dhaka, Bangladesh",2,
+"Seattle,WA",2,
+"Latvia, Riga, Azenes iela 6",2,
+"Beirut, Lebanon",2,
+Tallinn,2,
+"Lebanon, NH",2,
+"Gyulagarak, Lori Region 1910, Republic of Armenia",2,
+Canada,2,
+Kent,2,
+"WATERVLIET, NY",2,
+"Galveston, TX",2,
+Brasil,2,
+"Adelaide, South Australia",2,
+Toronto,2,
+Cambridge,2,
+St. Gallen,2,
+"HILL AFB, UT",2,
+"Honolulu, HI",2,
+"ABACO, BAHAMAS",2,
+Ponta Grossa,2,
+"Kennesaw, GA",2,
+"Norman, OK",2,
+Sofia,2,
+Jakarta Selatan,2,
+"Kiev, Ukraine",2,
+"Chicago, Il",2,
+"Latvia, Riga, 12 Azenes Street",2,
+"St. Louis, MO",2,
+Brisbane,2,
+"Philadelphia,PA",2,
+"Newark, NJ",2,
+Ormskirk,2,
+Canterbury,2,
+"New Orleans, LA (United States)",2,
+Malaga (Spain),2,
+"London, Ontario, Canada",2,
+"Iowa City, IA",2,
+"FORT BENNING, GA",2,
+"Florianópolis, Santa Catarina, Brasil",2,
+Marburg,2,
+"Fort Collins, Coloardo",2,
+"Nellis AFB, NV",2,
+Washington. D.C.,2,
+"Palisades, NY",2,
+"Rio de Janeiro, RJ",2,
+Meadowbrook,2,
+"Latvia, Riga, Daugavgrivas 2",2,
+Winnipeg,2,
+"College Station, TX",2,
+"Worcester, MA",2,
+British Columbia,2,
+"Recife, Pernambuco, Brasil",2,
+Minho,2,
+NM (United States),2,
+"Arlington,  VA",2,
+"Cuiabá, Mato Grosso, Brasil",2,
+Cacak,2,
+stockholm,2,
+"Lexington, KY",2,
+"Saint-Louis, SENEGAL",2,
+"Australia, QLD",2,
+"Ottawa, Canada",2,
+Växjö/Kalmar,2,
+"Bucaramanga, Santander",2,
+Laurel 1 1C 11130 Chiclana (Cadiz) SPAIN,2,
+Salzburg,2,
+La Laguna. Tenerife. España,2,
+"Manhasset, NY",2,
+Vancouver,2,
+Göttingen,2,
+"Tempe, AZ",2,
+"Pasadena, CA",2,
+"Fortaleza, Ceará, Brasil",2,
+Napoli,2,
+Liverpool,2,
+"Binghamton, NY",2,
+"İstanbul, Türkiye",2,
+Malaysia,2,
+"BRONX, NY",2,
+"RANDOLPH AFB, TX",2,
+"Edmonton, Alberta, Canada",2,
+Pacific Northwest National Laboratory,2,
+"Glassboro, NJ, USA",2,
+"Halifax, NS",2,
+"Latvia, Riga, 3 Paula Valdena Street",2,
+Calgary,2,
+"Barcelona, Spain",2,
+"Greenbelt, MD",2,
+"Champaign,  IL",2,
+"Pittsburgh,PA",2,
+"Växjö, Kalmar",2,
+"Latvia, Riga, Kalnciema iela 6",2,
+Washingtn,2,
+Dublin: Republic of Ireland,2,
+"Brasilia, Brazil",2,
+"Bogota, Colombia",2,
+Dhaka,2,
+"Coventry, UK",2,
+"LITTLE ROCK, AR",2,
+Cape Town,1,
+University of Limerick,1,
+"Lausanne, Switzerland",1,
+"Malden, MA, USA",1,
+Ташкент,1,
+Faculdade de Farmácia,1,
+Morales,1,
+"Houghton, MI, USA",1,
+"Brussels, BE",1,
+Srilanka,1,
+Baltimore (Md.),1,
+"Columbus,OH",1,
+Alexandria,1,
+"Basalt, CO",1,
+"191 W. Woodruff Ave., Columbus, OH 43210, USA",1,
+"St. Petersburg, Russia",1,
+Ethopia,1,
+"Arkhangelsk, Russia",1,
+Ciudad Real,1,
+Lynnfield,1,
+Palma de Mallorca,1,
+"Ciudad Universitaria, Ciudad de México",1,
+"Av. dos Astronautas 1758, Jd. Granja, São José dos Campos - SP, CEP 12227-010, Brazil",1,
+Lipjan,1,
+"Latvia, Riga, Paula Valdena iela 1",1,
+Asturias,1,
+Agricultural Marketing Service,1,
+"BASKING RIDGE, NJ",1,
+"MACDILL AFB, FL",1,
+Nottingham,1,
+Lisboa,1,
+"500 Fifth Street, NW Washington, DC 20001",1,
+Canberra and Melbourne,1,
+"Aliso Viejo, CA",1,
+"Port Hueneme, CA",1,
+Frutal - MG,1,
+"Pietermaritzburg, South Africa",1,
+"Hackensack, NJ",1,
+"San Francisco , CA",1,
+"Dayton, OH",1,
+"Fort Collins, Colordo",1,
+DOE Direct Procurement,1,
+"LEXINGTON, MA",1,
+"NASHVILLE, TN",1,
+Ústí nad Labem,1,
+"Dundee, UK",1,
+"Missoula, MT",1,
+St. Pölten,1,
+ARTS,1,
+"St. Gallen, Switzerland",1,
+San Rafael. CA,1,
+Stellenbosch,1,
+Ouro Preto- MG,1,
+"Health, Safety & Security",1,
+Pécs,1,
+"Burnaby, Canada",1,
+Museu de la Música de Barcelona,1,
+Netherlands,1,
+"Hanover,  NH",1,
+"San Antonio, TX",1,
+"Lawrence, Kansas",1,
+Facultad de Ingeniería y Arquitectura,1,
+"Washington, D.C:",1,
+"Boca Raton, FL",1,
+Braisbane,1,
+"Geneva and Cambridge, MA",1,
+Inc. (United States),1,
+"Cork, Ireland",1,
+"Hollandstraße 11-13, 1020 Vienna, Austria",1,
+"Essex, UK",1,
+Copenhagen. Denmark,1,
+"D-85748 Garching, Germany",1,
+"Greenbelt, MD 20771, USA",1,
+"Chapel Hill,NC",1,
+"Yaoundé, Cameroun",1,
+"Washingrton, DC",1,
+Pazo de Raxoi. Praza do Obradoiro. s/n 2ºandar,1,
+Wayne NJ,1,
+Corvallis,1,
+"Englewood, CO",1,
+"Russia, Moscow, Stremyanny, 36",1,
+Office of Epidemiologic Studies,1,
+Курск: Юго-Зап. гос. ун-т,1,
+"Edwards AFB, CA",1,
+Ituiutaba,1,
+"New York,  NY",1,
+"Boston,  MA",1,
+San Diego,1,
+"36 Nahimovskiy pr., Moscow, 117997, Russia",1,
+Engineering,1,
+"Via Francesco Cilea, 280 Napoli, Italia",1,
+"Wellesley Hills, MA",1,
+Danmark,1,
+Washington D.C:,1,
+"Tuscon, AZ",1,
+"Wallops Island, VA",1,
+"Durham, NH",1,
+University of Wisconsin-Madison,1,
+China,1,
+"Areia, Paraíba, Brasil",1,
+nome da empresa,1,
+"Tucson, AZ",1,
+DE,1,
+"Lebanon,  NH",1,
+"Cedarville, OH",1,
+"Nugeogda, Sri Lanka",1,
+Aurora Afonso Costa Nursing School,1,
+"São José dos Campos. -, SP",1,
+Bogotá D.C.,1,
+"Soccoro, NM",1,
+Málaga,1,
+"Columbia, Missouri",1,
+"São Leopoldo, Rio Grande do Sul, Brasil",1,
+"Shillong, Meghalaya, India",1,
+KSA,1,
+"Wellington, New Zealand",1,
+"Nyeri, Kenia",1,
+Varna,1,
+the Netherlands,1,
+"Gainesville, Fl",1,
+MONTEVIDEO - URUGUAY,1,
+"Triangle Park, NC",1,
+"Santa Monica, CA",1,
+"San Rafael,CA",1,
+Islamabad,1,
+"New York 05080912710, State 05080912710, United States",1,
+Киев,1,
+Giza,1,
+"Blacksburg, Virginia",1,
+"Dortmund, Germany",1,
+Tallahassee,1,
+University of Pennsylvania,1,
+"Campinas, São Paulo, Brasil",1,
+"Richmond, VA",1,
+"37, Prospekt Nauky, Kyiv, Ukraine, 03028",1,
+Kampala,1,
+"Colombia, Medellín",1,
+"Blumenau, Santa Catarina, Brasil",1,
+"Ks. Janusza 64, 01-452 Warszawa, Poland",1,
+Volta Redonda,1,
+"Coral Gables, FL",1,
+Byblos,1,
+"Lincoln, Nebraska",1,
+"Linköping, Swden",1,
+Ottawa Canada,1,
+IN,1,
+"ESRI, Dublin",1,
+"WEST POINT, NY",1,
+"TRAVIS AFB, CA",1,
+Carlton,1,
+Valença,1,
+Dallas,1,
+"Toronto, Ontario, Canada",1,
+"Hanover, New Hampshire",1,
+"Washingtgon, DC",1,
+Iraq,1,
+University of Dar es Salaam,1,
+"Kursk, Russia",1,
+"Mandaluyong City, Philippines",1,
+"Molodezhnaya St. 3, 119296 Moscow, RUSSIA",1,
+Manchester,1,
+"Noordwijk, NL",1,
+"Guelph, Ontario",1,
+"null, Australia",1,
+San Francisco,1,
+"EAST MESA, AZ",1,
+"PETERSON AFB, CO",1,
+"VANCOUVER, WA",1,
+"TUSCALOOSA, AL",1,
+"NEWBERRY, FL",1,
+"Charlotte, NC",1,
+Geneva and Nairobi,1,
+"Wallingford, UK",1,
+2092 El Manar II - Tunisia,1,
+Greensboro,1,
+Bern,1,
+New York & Geneva,1,
+ipatinga,1,
+"New Orleans, LA",1,
+"Springfield, MA",1,
+Imperial College,1,
+"Neuchâtel, Switzerland, & Paris, France",1,
+Wildau,1,
+"NY, NY",1,
+"Alpharetta, GA 30022",1,
+"College Park, MD 20742, USA",1,
+"Baltimore County, Baltimore, MD 21250, USA",1,
+UNSW NSW,1,
+NL,1,
+A Coruña,1,
+"Syracuse, NY",1,
+Thimphu,1,
+"Helsinki, Finland",1,
+Sri Lanka,1,
+Japan,1,
+"Fort Worth, Texas, USA",1,
+"JB-LANGLEY-EUSTIS, VA",1,
+"KEESLER AFB, MS",1,
+Курск,1,
+Estonia,1,
+Los Angeles CA,1,
+OuroPreto - MG,1,
+Ohio,1,
+"Andrews AFB, MD",1,
+"Philomath, OR",1,
+"Taipei, Taiwan",1,
+"Colorado, USA",1,
+"Shalimar, FL",1,
+Cracow,1,
+"Silver Spring, MD",1,
+"Chestnut Hill, MA",1,
+"Kitty Hawk, NC",1,
+Kosovska Mitrovica,1,
+"MOFFETT FIELD, CA",1,
+"Lerma de Villada, Estado de México Mex",1,
+"Albany, NY",1,
+"Flensburg, Germany",1,
+"Fort Belvoir, VA",1,
+Seattle Washington,1,
+"São Jose dos Campos, SP",1,
+"FE Warren AFB, WY",1,
+Washignton D.C.,1,
+"MacDill AFB, FL",1,
+"JB Langley-Eustis, VA",1,
+"Bogotá, D.C.",1,
+القاهرة,1,
+Cartagena,1,
+Київ,1,
+"Jackson, MS",1,
+Santiago de Chile,1,
+"Neuchâtel, Switzerland et Katholieke Universiteit Leuven, Belgique",1,
+"Durban, South African",1,
+Alnarp,1,
+"Alanta, Georgia",1,
+"Detroit, MI",1,
+Salford,1,
+"Santaigo, Chile",1,
+Ingeniería Electríca y de Comunicación,1,
+Fakultät Maschinenwesen,1,
+"Bogotá, D. C. Colombia",1,
+"Oklahoma City, OK",1,
+"Santa Maria, Rio Grande do Sul, Brasil",1,
+Russia,1,
+"Madrid, España",1,
+ACER,1,
+New York City,1,
+Karachi,1,
+"Fortaleza, Brasil",1,
+"Rockville, MD",1,
+Kuala Lumpur,1,
+Latvijas Universitāte,1,
+"10211 Wincopin Circle, Suite 500, Columbia, MD 21044, USA",1,
+Alicante (España),1,
+Berner Fachhochschule Hochschule der Künste Bern,1,
+Charlottesville,1,
+Hamilton,1,
+Zürich,1,
+"Neuchâtel, Switzerlan",1,
+"Omaha, NE",1,
+Viçosa,1,
+ESTEC,1,
+"Boston, MA_",1,
+"Cincinnati,OH",1,
+PPFD,1,
+Bangladesh,1,
+Doctor of Philosophy in Materials Science and Engineering,1,
+"Copenhagen, Denmark",1,
+"Rua Santa Clara, 292, Copacabana, Rio de Janeiro, RJ, Brasil",1,
+"Brookings, SD",1,
+"Sherman Oaks, CA",1,
+"Colorado Denver, CO",1,
+Pakistan,1,
+Teachers College Columbia University,1,
+"Washingotn, DC",1,
+"Sydney, Australia",1,
+"Lexington, MA",1,
+"Redmond, WA",1,
+"Cologne, Germany",1,
+"Sorocaba, São Paulo, Brasil",1,
+Москва,1,
+"Gaithersburg, Md",1,
+"Ocean Springs, MS",1,
+"São José dos campos, SP",1,
+"East Lansing, MI",1,
+León,1,
+United Sates of America,1,
+"memphis, TN",1,
+"Pazo de Raxoi, 2º andar Praza do Obradoiro s/n 15705 Santiago",1,
+"Canberra, ACT",1,
+"East Providence, RI",1,
+"Atlanta, Georga",1,
+"Villavicencio, Colombia",1,
+"St. Petersburg 199034, Russia",1,
+"Bloomington, IN",1,
+"Latvia, Rija, Setas iela 1",1,
+香港,1,
+"Swansea, Wales, U.K.",1,
+"Austin, Texas",1,
+"Houghton,",1,
+SARD,1,
+NAIROBI,1,
+Lublin,1,
+KIDLINGTON,1,
+Campus Valla,1,
+"Newport, Oregon",1,
+castelló de la Plana,1,
+"Shanghai, China",1,
+Manno,1,
+"JB Andrews, MD",1,
+"Stanford University, Sacramento, California",1,
+wherever,1,
+"Belém, Pará, Brasil",1,
+"Neuchâtel, Switzerland, et Beyrouth, Liban",1,
+Finland,1,
+"Swansea, United Kingdom",1,
+"Plano, TX",1,
+Frankfurt am Main,1,
+Uzice,1,
+"Durham, North Carolina",1,
+Linköping Univerisity,1,
+Vanderbilt,1,
+"Nome,AK",1,
+"RALEIGH, NC",1,
+Ankara,1,
+Canberra and Adelaide and Melbourne,1,
+Windhoek Field Office,1,
+Port-au-Prince,1,
+"Bronx, NY",1,
+?a?ak,1,
+"Covington, TN",1,
+Middlesbrough,1,
+"Hoboken, NJ 07030",1,
+"Latvia, Riga, Azenes iela 8",1,
+"New York City, NY",1,
+"Burlington, Massachusetts",1,
+"PANAMA CITY, FL",1,
+"Irkutsk, Russia",1,
+IIIT,1,
+Ribeirao Preto-SP,1,
+Rochester MN,1,
+Ipameri,1,
+"Fort Collins, Coloado",1,
+"New Delhi, India",1,
+GENERAL SANTOS-PHILIPPINES,1,
+"Washingon, DC",1,
+Hamburg,1,
+Nijmegen,1,
+Taipei,1,
+"EDGEWOOD ARSENAL, MD",1,
+"BROOKS CITY BASE, TX",1,
+"FORT HUACHUCA, AZ",1,
+"Fort Bragg, NC",1,
+"BREMERHAVEN, GERMANY",1,
+"SANTA BARBARA, CA",1,
+"Albuquerque, NM, United States",1,
+Nigeria,1,
+New South Wales,1,
+Pearse Street,1,
+Astana,1,
+"Kurchatov, Kazakhstan",1,
+"via Francesco Cilea, 280 - Napoli",1,
+"Latvija, Riga, Paula Valdena iela 3",1,
+"via Francesco Cilea, 280 - Napoli, Italia",1,
+"New York, Geneva",1,
+Durham,1,
+"Calgary, Canada",1,
+Tübingen,1,
+"Amherst, MA",1,
+Honolulu,1,
+"Auckland, New Zealand",1,
+Italy,1,
+"Davis, CA",1,
+"Venice, Italy",1,
+"Liverpool, UK",1,
+"Gloucester Point, VA",1,
+"San Luis Obispo, CA",1,
+Greensboro NC,1,
+"Viena, Austria",1,
+1130 Rue Sherbrooke ouest,1,
+Perth,1,
+"Aarhus, Denmark",1,
+"Leicester, LE1 7RH, UK",1,
+"Birmingham, AL",1,
+"Silver Springs, MD",1,
+Washington D.C,1,
+"Hyderabad, India",1,
+"м. Київ, Україна",1,
+"Ha Noi, Viet Nam",1,
+"Birmingham, Al",1,
+greensboro,1,
+"Lisbon, Portugal",1,
+"Oak Ridge, TN SPECIAL USER",1,
+"Chicago, IL (United States)",1,
+Master of Fine Arts in Creative Writing,1,
+"Wales, UK",1,
+Atlanta Georgia,1,
+"Chicago,Ill",1,
+"500 Fifth Street, NW, Washington, DC, 20001",1,
+UnB,1,
+"Vienna,  Austria",1,
+"New South Wales, Australia",1,
+تركيا,1,
+"Faculdade de Tecnologia, Departamento de Engenharia Elétrica",1,
+"Falmouth, MA",1,
+"Hague, Netherlands",1,
+"Ypsilanti, MI",1,
+Facultad de educación,1,
+"Ottawa, ON",1,
+"Newark, DE",1,
+"Moss Landing, CA",1,
+"Annapolis, MD",1,
+"Patuxent River, MD",1,
+"Redwood City, CA",1,
+"New York, NY USA",1,
+Syracuse NY,1,
+Raquel Meller 7,1,
+"Leicester, U.K.",1,
+"Hill AFB, UT",1,
+"BARKSDALE AFB, LA",1,
+"Huntsville,  AL",1,
+"Bartlesville, OK",1,
+"São Jose dos campos, SP",1,
+Brno,1,
+Goma/RDC,1,
+"Mbuji-Mayi, RDC",1,
+"Evanston, IL",1,
+"Curitiba, Paraná, Brasil",1,
+München,1,
+"Boston, MA, USA",1,
+Helwan,1,
+Porto Alegre,1,
+Belém-Pa,1,
+Belém/PA,1,
+"Riyahd, Saudi Arabia",1,
+Kodaira,1,
+"Baton Rouge, LA",1,
+"Córdoba, Argentina",1,
+"San Francisco,CA",1,
+Magdeburg,1,
+TX,1,
+"White Sea Biological Station, Poselok Primorskiy, Republic Karelia, RUSSIA (a/ya 20, Glavpochtamt, Kandalakshsky raion, Murmanskaya oblast, 184042, RUSSIA)",1,
+"Jagatsinghpur, Odisha",1,
+"Arlington, MA",1,
+Michigan,1,
+Swansea University,1,
+"Noosaville, Queensland",1,
+"Natal, Rio Grande do Norte, Brasil",1,
+Houston,1,
+Was,1,
+"Ontario, Canada",1,
+São José do Rio Preto - SP,1,
+"Basel, Switzerland",1,
+"Nashville,TN",1,
+"Rochester, MN",1,
+Uruguay,1,
+"Oxford,UK",1,
+Bereich Mathematik und Naturwissenschaften,1,
+"São Paulo, São Paulo, Brasil",1,
+Manila,1,
+"Stuttgart, Germany",1,
+"601 Keystone Park Drive, Suite 800, Morrisville, NC 27560",1,
+"Vitória, Espírito Santo, Brasil",1,
+UK,1,
+Post Pandemic Covid-19 Economic Recovery: Enabling Latin America and the Caribbean to Better Harness E-commerce and Digital Trade,1,
+Jagodina,1,
+Guimarães,1,
+"EMMELOORD, NETHERLANDS",1,
+Münster,1,
+"C/Ivan Pavlov, 6, 28049 Madrid, Spain",1,
+Sweden,1,
+"Swansea, UK.",1,
+"Fort Myers, FL.",1,
+"Québec City, Québec, Canada",1,
+Louisville,1,
+Manila Philippines,1,
+"Patuxent River,  MD",1,
+"Grahamstown, South Africa",1,
+"Fort Worth, TX",1,
+"Gaithersburg,MD",1,
+"Wits Tshimologong Digital Innovation Precinct in Braamfontein, Johannesburg,",1,
+"Vandenberg AFB, CA",1,
+Mississippi State,1,
+"LONDON, UK",1,
+"GLOUCESTER POINT, VA",1,
+"Vicksburg,  MS",1,
+"KADENA AFB, AE",1,
+"KITTY HAWK, NC",1,
+"Sorocaba, SP",1,
+"Lerma de Villada, Estado de México Mexa",1,
+"Little Rock, AK",1,
